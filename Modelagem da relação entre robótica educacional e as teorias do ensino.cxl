@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cmap xmlns:dcterms="http://purl.org/dc/terms/" xmlns="http://cmap.ihmc.us/xml/cmap/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+    <res-meta>
+        <dc:title>Modelagem da rela&#xe7;&#xe3;o entre rob&#xf3;tica educacional e as teorias do ensino</dc:title>
+        <dc:creator>
+            <vcard:FN>Lucas Seabra Gomes Oliveira</vcard:FN>
+            <vcard:EMAIL>lucasseabra25@gmail.com</vcard:EMAIL>
+            <vcard:ORG>
+                <vcard:Orgname>UNB</vcard:Orgname>
+            </vcard:ORG>
+        </dc:creator>
+        <dc:contributor>
+            <vcard:FN>Lucas Seabra Gomes Oliveira</vcard:FN>
+            <vcard:EMAIL>lucasseabra25@gmail.com</vcard:EMAIL>
+            <vcard:ORG>
+                <vcard:Orgname>UNB</vcard:Orgname>
+            </vcard:ORG>
+        </dc:contributor>
+        <dcterms:rightsHolder>
+            <vcard:FN>Lucas Seabra Gomes Oliveira</vcard:FN>
+            <vcard:EMAIL>lucasseabra25@gmail.com</vcard:EMAIL>
+            <vcard:ORG>
+                <vcard:Orgname>UNB</vcard:Orgname>
+            </vcard:ORG>
+        </dcterms:rightsHolder>
+        <dcterms:created>2023-07-24T20:47:11-03:00</dcterms:created>
+        <dcterms:modified>2023-07-24T22:27:56-03:00</dcterms:modified>
+        <dc:language>pt</dc:language>
+        <dc:format>x-cmap/x-storable</dc:format>
+        <dc:publisher>FIHMC CmapTools 6.04</dc:publisher>
+        <dc:extent>30295 bytes</dc:extent>
+        <dc:source>cmap:1ZBCTKG3P-1783RM6-1:1ZBCTKJR7-9S73X1-Z:1ZFH6GXJR-QHD15X-4D7D</dc:source>
+    </res-meta>
+    <map width="1572" height="922">
+        <concept-list>
+            <concept id="1ZFH606FM-12KPHPG-45X9" label="Erros"/>
+            <concept id="1ZDBP8DRL-2CPP1ZR-C34K" label="Execu&#xe7;&#xe3;o"/>
+            <concept id="1ZDBP8DRL-1303XF-C34R" label="Julgamento"/>
+            <concept id="1ZFH4FQGM-8P6XFZ-3NNX" label="Controlador"/>
+            <concept id="1ZFH48PPM-24NYVHR-3L0Z" label="Teorias do ensino"/>
+            <concept id="1ZFH4BV0B-WRC2LT-3LM2" label="STEM"/>
+            <concept id="1ZFH4FQGM-1TKNGD6-3NNM" label="Softwares"/>
+            <concept id="1ZFH4FQGM-1ZYQ13-3NNQ" label="Hardwares"/>
+            <concept id="1ZFH4FQGM-1GCPSHF-3NP4" label="microprocessador"/>
+            <concept id="1ZFH4FQGM-1TKX56-3NNJ" label="Dispositivos rob&#xf3;ticos"/>
+            <concept id="1ZFH4SWTD-P1YZFY-3SYS" label="Matem&#xe1;tica"/>
+            <concept id="1ZFH4FQGN-1N5WDRR-3NQD" label="Movimenta&#xe7;&#xe3;o"/>
+            <concept id="1ZFH4FQGM-Q9T48J-3NNT" label="simula&#xe7;&#xe3;o"/>
+            <concept id="1ZFH4FQGM-1M459C3-3NP7" label="Sinais&#xa;el&#xe9;tricos"/>
+            <concept id="1ZDBP8DRK-KPNF07-C31W" label="quatro&#xa;fases"/>
+            <concept id="1ZFH4J0R8-1K1JZGJ-3Q8M" label="integra&#xe7;&#xe3;o"/>
+            <concept id="1ZDBP8DRK-PXCHSW-C31D" label="An&#xe1;lise"/>
+            <concept id="1ZFH4FQGM-1144BS9-3NN9" label="Tecnologia Educacional"/>
+            <concept id="1ZDBP8DRK-212GLYP-C310" label="Sala de aula&#xa;Invertida"/>
+            <concept id="1ZFH4YHFS-170023V-3V37" label="Intera&#xe7;&#xe3;o"/>
+            <concept id="1ZFH4FQGM-1HXBHTS-3NQ0" label="Condi&#xe7;&#xf5;es&#xa;do ambiente"/>
+            <concept id="1ZFH58J4B-12M3H51-3YK8" label="Atividades Pedag&#xf3;gicas"/>
+            <concept id="1ZFH4FQGM-1D7BG5D-3NNF" label="Rob&#xf3;tica Educacional"/>
+            <concept id="1ZDBP8DRK-285CKYR-C322" label="Planejamento"/>
+            <concept id="1ZDBP8DRH-MKGDV0-C2YB" label="Aprendizagem baseada&#xa;em problemas"/>
+            <concept id="1ZFH4FQGN-1LF797V-3NQ9" label="Manipula&#xe7;&#xe3;o"/>
+            <concept id="1ZFH4FQGN-1F4KHVW-3NQL" label="For&#xe7;as &#xa;mec&#xe2;nicas"/>
+            <concept id="1ZFH62TKQ-G8865S-47CM" label="Aprimoramento"/>
+            <concept id="1ZFH4FQGM-VX0X58-3NPB" label="programas"/>
+            <concept id="1ZFH4PCPG-188J8Z4-3RRF" label="Tecnologia"/>
+            <concept id="1ZFH4FQGM-R8CGPH-3NQ3" label="Atuadores"/>
+            <concept id="1ZFH4FQGN-JGTXR9-3NQH" label="energia&#xa;cin&#xe9;tica"/>
+            <concept id="1ZFH4QKNY-1HJY116-3SB3" label="Engenharia"/>
+            <concept id="1ZFH4FQGM-268BGDM-3NPJ" label="mem&#xf3;ria"/>
+            <concept id="1ZDBP8DRM-12YYG8Y-C36H" label="Resolu&#xe7;&#xe3;o de problemas"/>
+            <concept id="1ZDBP8DRL-1Z5K3BD-C34C" label="Problemas"/>
+            <concept id="1ZFH4XNB1-PJ6X0R-3V1Y" label="Construcionismo&#xa;de Papert"/>
+            <concept id="1ZFH4KDDZ-1G7DVTJ-3QC1" label="Ci&#xea;ncia"/>
+            <concept id="1ZDBP8DRK-264LS3-C31P" label="Estudo pr&#xe9;vio&#xa;de conte&#xfa;dos"/>
+            <concept id="1ZFH5Z3F7-25GLPFN-45VL" label="montagem"/>
+            <concept id="1ZFH4FQGM-18N34H-3NQ6" label="A&#xe7;&#xf5;es"/>
+            <concept id="1ZFH4FQGM-N5N4N7-3NPM" label="Comandos"/>
+            <concept id="1ZDBP8DRJ-1K5R81N-C2ZG" label="Aprendizagem baseada&#xa;em projetos"/>
+            <concept id="1ZFH4FQGM-9QJ2YF-3NPQ" label="Sensor"/>
+            <concept id="1ZFH5WVZ4-10RS28P-454M" label="codifica&#xe7;&#xe3;o"/>
+            <concept id="1ZFH4FQGM-108L9X5-3NPX" label="Propriedades&#xa;fisicas dos&#xa;materiais"/>
+            <concept id="1ZDBP8DRK-1CWVJGP-C31H" label="Inten&#xe7;&#xe3;o"/>
+            <concept id="1ZFH61N2D-VF7DN-46MQ" label="Oportunidade"/>
+            <concept id="1ZDBP8DRK-WTVRSS-C31L" label="Processo"/>
+            <concept id="1ZDBP8DRJ-1H648Y2-C2Z8" label="Metodologias ativas"/>
+            <concept id="1ZFH4ZMWR-19CWKMB-3VPZ" label="materiais&#xa;concretos"/>
+            <concept id="1ZFH4FQGM-1LJ1SC3-3NP1" label="Efetuador"/>
+            <concept id="1ZFH4FQGM-L68MBD-3NPF" label="Dados"/>
+            <concept id="1ZFH5GF2S-2V9B0W-40J5" label="Objetivos"/>
+        </concept-list>
+        <linking-phrase-list>
+            <linking-phrase id="1ZDBP8DRQ-VJK3TH-C3JC" label="Sendo a&#xa;terceira"/>
+            <linking-phrase id="1ZDBP8DRP-VQN9TQ-C3DG" label="De"/>
+            <linking-phrase id="1ZFH4FQGP-1H8DNFL-3NWV" label="realiza"/>
+            <linking-phrase id="1ZFH61N2F-SC92QH-46MT" label="Que s&#xe3;o&#xa;utilizados&#xa;como"/>
+            <linking-phrase id="1ZFH59DK4-5D2875-3Z52" label="Que aplicam"/>
+            <linking-phrase id="1ZFH4FQGP-289ZSFV-3P04" label="na forma de"/>
+            <linking-phrase id="1ZFH4R96D-1CMP78N-3SBZ" label="Engloba &#xa;o estudo de"/>
+            <linking-phrase id="1ZFH4FQGP-2KKGND-3NX9" label="executa"/>
+            <linking-phrase id="1ZFH5ZNBQ-1G42WWV-45WH" label="de"/>
+            <linking-phrase id="1ZDBP8DRQ-1NYKJX-C3JT" label="Sendo a&#xa;primeira"/>
+            <linking-phrase id="1ZFH4FQGN-1ZDVR33-3NRK" label="que consiste no uso de"/>
+            <linking-phrase id="1ZFH4Q14K-1TQ1BFK-3S94" label="Como"/>
+            <linking-phrase id="1ZFH5BW1D-21557X9-3Z9F" label="como"/>
+            <linking-phrase id="1ZFH4FQGP-53RS9C-3P0L" label="que utilizam"/>
+            <linking-phrase id="1ZFH5Y94V-23ZSKS8-45TN" label="de"/>
+            <linking-phrase id="1ZFH4FQGP-1BBRKDL-3P12" label="de"/>
+            <linking-phrase id="1ZFH5HSH1-DZWJ49-414J" label="Baseados em"/>
+            <linking-phrase id="1ZFH4FQGN-10HHS13-3NV8" label="Envia"/>
+            <linking-phrase id="1ZFH4YHFT-17QR5N2-3V3B" label="Caracterizada&#xa;pela"/>
+            <linking-phrase id="1ZFH4FQGP-1YVYFMD-3NY7" label="Que atuam&#xa;como"/>
+            <linking-phrase id="1ZDBP8DRN-C7MVRD-C3B1" label="do tipo"/>
+            <linking-phrase id="1ZFH4FQGN-1W2MQRY-3NTT" label="representando"/>
+            <linking-phrase id="1ZFH4M3QB-43QDSS-3QZ5" label="Engloba &#xa;o estudo de"/>
+            <linking-phrase id="1ZFH5MZ39-4PPPTX-42H6" label="Onde se&#xa;realiza"/>
+            <linking-phrase id="1ZFH4FQGN-2686T56-3NWC" label="Composto por"/>
+            <linking-phrase id="1ZFH4FQGP-1K7Z6L1-3NZN" label="Que&#xa;quantificam"/>
+            <linking-phrase id="1ZDBP8DRN-1PV5XMX-C38H" label="Onde o conhecimento&#xa;se organiza a partir de"/>
+            <linking-phrase id="1ZFH4FQGP-13CHKL1-3NYP" label="Armazena"/>
+            <linking-phrase id="1ZFH4J0R9-26JNV6-3Q8Q" label="Caracterizada"/>
+            <linking-phrase id="1ZFH4FQGP-1QCFZB7-3P25" label="para gerar"/>
+            <linking-phrase id="1ZFH4FQGN-S7DMMP-3NQX" label="a partir de"/>
+            <linking-phrase id="1ZFH508YM-2BN9WGZ-3VRN" label="Por exemplo"/>
+            <linking-phrase id="1ZDBP8DRN-6GFSXL-C3C0" label="Caracterizada por um"/>
+            <linking-phrase id="1ZFH4FQGP-GF975D-3NXR" label="Executa"/>
+            <linking-phrase id="1ZFH62TKQ-21MG0D1-47CQ" label="Para"/>
+            <linking-phrase id="1ZDBP8DRP-1CZSK43-C3HW" label="Sendo a&#xa;quarta"/>
+            <linking-phrase id="1ZFH5FH00-2BG0H7R-40HD" label="Para concluir"/>
+            <linking-phrase id="1ZFH4FQGN-1XVV74M-3NT0" label="que atuam como"/>
+            <linking-phrase id="1ZFH5KBJS-2146F9-41RW" label="Onde se definem"/>
+            <linking-phrase id="1ZDBP8DRP-13JZ0Q9-C3DX" label="Para"/>
+            <linking-phrase id="1ZFH606FN-MKWFGL-45XD" label="identificam-se"/>
+            <linking-phrase id="1ZFH4FQGN-1BS7XGT-3NSJ" label="para fins de"/>
+            <linking-phrase id="1ZFH4FQGP-25D7CXK-3NZ5" label="Aplicam"/>
+            <linking-phrase id="1ZFH4FQGN-J132MY-3NS1" label="Como"/>
+            <linking-phrase id="1ZDBP8DRP-BJNVZX-C3G9" label="de"/>
+            <linking-phrase id="1ZDBP8DRN-GXNSQF-C380" label="onde &#xe9; realizada uma"/>
+            <linking-phrase id="1ZFH4KDF0-23BRK8W-3QC4" label="De"/>
+            <linking-phrase id="1ZDBP8DRQ-1ZMJR9L-C3K8" label="Sendo a&#xa;segunda"/>
+            <linking-phrase id="1ZFH4FQGN-2BPM71K-3NVR" label="Composto&#xa;por"/>
+            <linking-phrase id="1ZFH5WVZ5-1SF9FN1-454Q" label="pode envolver"/>
+            <linking-phrase id="1ZDBP8DRP-DMZT8M-C3CZ" label="Caracterizada por"/>
+            <linking-phrase id="1ZFH4FQGP-8VN9VX-3P1Q" label="aplicada em"/>
+            <linking-phrase id="1ZFH58J4C-1Q58JXN-3YKC" label="Em"/>
+            <linking-phrase id="1ZFH4ZMWS-1ZHNL2C-3VQ2" label="com"/>
+        </linking-phrase-list>
+        <connection-list>
+            <connection id="1ZDBP8DRP-MHXMNJ-C3D8" from-id="1ZDBP8DRP-VQN9TQ-C3DG" to-id="1ZDBP8DRL-1Z5K3BD-C34C"/>
+            <connection id="1ZFH508YM-1QM146F-3VRR" from-id="1ZFH4ZMWR-19CWKMB-3VPZ" to-id="1ZFH508YM-2BN9WGZ-3VRN"/>
+            <connection id="1ZFH4FQGP-1LVK9KQ-3NY1" from-id="1ZFH4FQGP-1YVYFMD-3NY7" to-id="1ZFH4FQGM-N5N4N7-3NPM"/>
+            <connection id="1ZFH4FQGP-MZ9GZ8-3NYZ" from-id="1ZFH4FQGP-25D7CXK-3NZ5" to-id="1ZFH4FQGM-108L9X5-3NPX"/>
+            <connection id="1ZFH4Q14K-1MJRV4W-3S97" from-id="1ZFH4PCPG-188J8Z4-3RRF" to-id="1ZFH4Q14K-1TQ1BFK-3S94"/>
+            <connection id="1ZFH4FQGP-5QW9PZ-3P1Z" from-id="1ZFH4FQGP-1QCFZB7-3P25" to-id="1ZFH4FQGN-JGTXR9-3NQH"/>
+            <connection id="1ZFH4FQGN-1YQ29M9-3NST" from-id="1ZFH4FQGN-1XVV74M-3NT0" to-id="1ZFH4FQGM-8P6XFZ-3NNX"/>
+            <connection id="1ZFH4FQGP-1HXHLWK-3NXK" from-id="1ZFH4FQGP-GF975D-3NXR" to-id="1ZFH4FQGM-VX0X58-3NPB"/>
+            <connection id="1ZFH4J0RB-V0VLCY-3Q90" from-id="1ZFH4J0R9-26JNV6-3Q8Q" to-id="1ZFH4J0R8-1K1JZGJ-3Q8M"/>
+            <connection id="1ZFH5Z3F8-1WRNCTF-45VP" from-id="1ZFH5WVZ5-1SF9FN1-454Q" to-id="1ZFH5Z3F7-25GLPFN-45VL"/>
+            <connection id="1ZFH5HSH2-T6VRTN-414T" from-id="1ZFH5HSH1-DZWJ49-414J" to-id="1ZDBP8DRL-1Z5K3BD-C34C"/>
+            <connection id="1ZDBP8DRN-H9FKJW-C3BT" from-id="1ZDBP8DRN-6GFSXL-C3C0" to-id="1ZDBP8DRK-WTVRSS-C31L"/>
+            <connection id="1ZDBP8DRP-1QGS7GJ-C3HZ" from-id="1ZDBP8DRK-KPNF07-C31W" to-id="1ZDBP8DRP-1CZSK43-C3HW"/>
+            <connection id="1ZFH4FQGN-XBQK4L-3NV2" from-id="1ZFH4FQGN-10HHS13-3NV8" to-id="1ZFH4FQGM-1M459C3-3NP7"/>
+            <connection id="1ZFH4FQGP-X47NDY-3P15" from-id="1ZFH4FQGP-1BBRKDL-3P12" to-id="1ZFH4FQGN-1N5WDRR-3NQD"/>
+            <connection id="1ZFH5FH01-1R9YZD3-40HH" from-id="1ZFH4FQGM-18N34H-3NQ6" to-id="1ZFH5FH00-2BG0H7R-40HD"/>
+            <connection id="1ZFH4FQGP-18QP5Y2-3NZG" from-id="1ZFH4FQGP-1K7Z6L1-3NZN" to-id="1ZFH4FQGM-1HXBHTS-3NQ0"/>
+            <connection id="1ZFH4FQGN-1L8T38R-3NW0" from-id="1ZFH4FQGM-8P6XFZ-3NNX" to-id="1ZFH4FQGN-2BPM71K-3NVR"/>
+            <connection id="1ZFH4FQGN-TNCFZR-3NR5" from-id="1ZFH4FQGM-1144BS9-3NN9" to-id="1ZFH4FQGN-S7DMMP-3NQX"/>
+            <connection id="1ZFH58J4C-T19J6Y-3YKG" from-id="1ZFH4FQGM-1TKX56-3NNJ" to-id="1ZFH58J4C-1Q58JXN-3YKC"/>
+            <connection id="1ZFH5BW1F-1P3KXJW-3Z9P" from-id="1ZFH5BW1D-21557X9-3Z9F" to-id="1ZFH4BV0B-WRC2LT-3LM2"/>
+            <connection id="1ZFH5C3C0-G85DC2-3ZB7" from-id="1ZFH5BW1D-21557X9-3Z9F" to-id="1ZFH4XNB1-PJ6X0R-3V1Y"/>
+            <connection id="1ZFH4FQGP-GJ26M-3P0W" from-id="1ZFH4FQGP-1BBRKDL-3P12" to-id="1ZFH4FQGN-1LF797V-3NQ9"/>
+            <connection id="1ZDRP3B5Z-SR5B0H-99P" from-id="1ZDBP8DRK-WTVRSS-C31L" to-id="1ZDBP8DRP-13JZ0Q9-C3DX"/>
+            <connection id="1ZFH4FQGP-KB7X1B-3NYH" from-id="1ZFH4FQGP-13CHKL1-3NYP" to-id="1ZFH4FQGM-L68MBD-3NPF"/>
+            <connection id="1ZFH4FQGN-JB0197-3NSB" from-id="1ZFH4FQGN-1BS7XGT-3NSJ" to-id="1ZFH4FQGM-Q9T48J-3NNT"/>
+            <connection id="1ZFH4FQGP-K8WDYD-3P1B" from-id="1ZFH4FQGM-18N34H-3NQ6" to-id="1ZFH4FQGP-1BBRKDL-3P12"/>
+            <connection id="1ZFH5Y94V-TGS1P5-45TR" from-id="1ZFH5WVZ4-10RS28P-454M" to-id="1ZFH5Y94V-23ZSKS8-45TN"/>
+            <connection id="1ZDBP8DRN-135KSMX-C3B4" from-id="1ZDBP8DRN-C7MVRD-C3B1" to-id="1ZDBP8DRH-MKGDV0-C2YB"/>
+            <connection id="1ZFH4FQGN-1K3ZQ6K-3NT8" from-id="1ZFH4FQGN-1XVV74M-3NT0" to-id="1ZFH4FQGM-9QJ2YF-3NPQ"/>
+            <connection id="1ZFH5HSH1-12N6VG8-414M" from-id="1ZFH5GF2S-2V9B0W-40J5" to-id="1ZFH5HSH1-DZWJ49-414J"/>
+            <connection id="1ZFH4ZMWT-1J404RM-3VQC" from-id="1ZFH4ZMWS-1ZHNL2C-3VQ2" to-id="1ZFH4ZMWR-19CWKMB-3VPZ"/>
+            <connection id="1ZDBP8DRP-1XS2NYK-C3J5" from-id="1ZDBP8DRQ-VJK3TH-C3JC" to-id="1ZDBP8DRL-2CPP1ZR-C34K"/>
+            <connection id="1ZFH59DK5-295GWX7-3Z5C" from-id="1ZFH59DK4-5D2875-3Z52" to-id="1ZFH48PPM-24NYVHR-3L0Z"/>
+            <connection id="1ZFH4FQGN-12YZK8M-3NR0" from-id="1ZFH4FQGN-S7DMMP-3NQX" to-id="1ZFH4FQGM-1ZYQ13-3NNQ"/>
+            <connection id="1ZFH4FQGP-11B8M79-3P0P" from-id="1ZFH4FQGM-R8CGPH-3NQ3" to-id="1ZFH4FQGP-53RS9C-3P0L"/>
+            <connection id="1ZFH4FQGP-L357K0-3P0D" from-id="1ZFH4FQGP-53RS9C-3P0L" to-id="1ZFH4FQGN-1F4KHVW-3NQL"/>
+            <connection id="1ZFH4FQGN-26K0WGN-3NT3" from-id="1ZFH4FQGN-1XVV74M-3NT0" to-id="1ZFH4FQGM-1LJ1SC3-3NP1"/>
+            <connection id="1ZFH4FQGN-93JRR8-3NSM" from-id="1ZFH4FQGM-1TKNGD6-3NNM" to-id="1ZFH4FQGN-1BS7XGT-3NSJ"/>
+            <connection id="1ZFH61N2F-RDJP42-46MX" from-id="1ZFH606FM-12KPHPG-45X9" to-id="1ZFH61N2F-SC92QH-46MT"/>
+            <connection id="1ZFH4FQGN-1R51X32-3NW5" from-id="1ZFH4FQGN-2686T56-3NWC" to-id="1ZFH4FQGM-R8CGPH-3NQ3"/>
+            <connection id="1ZDBP8DRP-1XN9FCL-C3CS" from-id="1ZDBP8DRP-DMZT8M-C3CZ" to-id="1ZDBP8DRK-264LS3-C31P"/>
+            <connection id="1ZFH4FQGN-DKPYC-3NRN" from-id="1ZFH4FQGM-1D7BG5D-3NNF" to-id="1ZFH4FQGN-1ZDVR33-3NRK"/>
+            <connection id="1ZFH4ZMWS-1BDJD5J-3VQ5" from-id="1ZFH4YHFS-170023V-3V37" to-id="1ZFH4ZMWS-1ZHNL2C-3VQ2"/>
+            <connection id="1ZFH5Y94V-1C7XFVT-45TY" from-id="1ZFH5Y94V-23ZSKS8-45TN" to-id="1ZFH4FQGM-VX0X58-3NPB"/>
+            <connection id="1ZFH4J0R9-1QHSJKP-3Q8T" from-id="1ZFH4BV0B-WRC2LT-3LM2" to-id="1ZFH4J0R9-26JNV6-3Q8Q"/>
+            <connection id="1ZFH4YHFV-28LTSR-3V3F" from-id="1ZFH4XNB1-PJ6X0R-3V1Y" to-id="1ZFH4YHFT-17QR5N2-3V3B"/>
+            <connection id="1ZFH4FQGN-17ZSJ6J-3NVK" from-id="1ZFH4FQGN-2BPM71K-3NVR" to-id="1ZFH4FQGM-1GCPSHF-3NP4"/>
+            <connection id="1ZFH4FQGP-20X708J-3P06" from-id="1ZFH4FQGM-1HXBHTS-3NQ0" to-id="1ZFH4FQGP-289ZSFV-3P04"/>
+            <connection id="1ZFH4Q14K-94C8JZ-3S9F" from-id="1ZFH4Q14K-1TQ1BFK-3S94" to-id="1ZFH4FQGM-1144BS9-3NN9"/>
+            <connection id="1ZFH606FN-17R100N-45XP" from-id="1ZFH606FN-MKWFGL-45XD" to-id="1ZFH606FM-12KPHPG-45X9"/>
+            <connection id="1ZDBP8DRQ-252N23V-C3K2" from-id="1ZDBP8DRQ-1ZMJR9L-C3K8" to-id="1ZDBP8DRK-285CKYR-C322"/>
+            <connection id="1ZFH4FQGP-MJ4LBJ-3NZR" from-id="1ZFH4FQGM-108L9X5-3NPX" to-id="1ZFH4FQGP-1K7Z6L1-3NZN"/>
+            <connection id="1ZFH4YHFV-75T9QM-3V3M" from-id="1ZFH4YHFT-17QR5N2-3V3B" to-id="1ZFH4YHFS-170023V-3V37"/>
+            <connection id="1ZFH4R96D-1ZCZR4W-3SC2" from-id="1ZFH4QKNY-1HJY116-3SB3" to-id="1ZFH4R96D-1CMP78N-3SBZ"/>
+            <connection id="1ZFH5GF2T-26850LM-40J8" from-id="1ZFH5FH00-2BG0H7R-40HD" to-id="1ZFH5GF2S-2V9B0W-40J5"/>
+            <connection id="1ZDBP8DRQ-1L2375X-C3KC" from-id="1ZDBP8DRK-KPNF07-C31W" to-id="1ZDBP8DRQ-1ZMJR9L-C3K8"/>
+            <connection id="1ZFH4FQGN-17281NT-3NWG" from-id="1ZFH4FQGM-1LJ1SC3-3NP1" to-id="1ZFH4FQGN-2686T56-3NWC"/>
+            <connection id="1ZFH4FQGP-28SDQW7-3P28" from-id="1ZFH4FQGN-1F4KHVW-3NQL" to-id="1ZFH4FQGP-1QCFZB7-3P25"/>
+            <connection id="1ZFH62TKR-YXG0V1-47CT" from-id="1ZFH61N2D-VF7DN-46MQ" to-id="1ZFH62TKQ-21MG0D1-47CQ"/>
+            <connection id="1ZFH5WVZ6-2CJ0VZR-4550" from-id="1ZFH5WVZ5-1SF9FN1-454Q" to-id="1ZFH5WVZ4-10RS28P-454M"/>
+            <connection id="1ZFH4FQGP-1DGM5DP-3NZ8" from-id="1ZFH4FQGM-9QJ2YF-3NPQ" to-id="1ZFH4FQGP-25D7CXK-3NZ5"/>
+            <connection id="1ZDBP8DRN-GKPY5N-C383" from-id="1ZDBP8DRH-MKGDV0-C2YB" to-id="1ZDBP8DRN-GXNSQF-C380"/>
+            <connection id="1ZFH4FQGN-RB667C-3NVV" from-id="1ZFH4FQGN-2BPM71K-3NVR" to-id="1ZFH4FQGM-268BGDM-3NPJ"/>
+            <connection id="1ZFH61N2F-1837YPN-46N3" from-id="1ZFH61N2F-SC92QH-46MT" to-id="1ZFH61N2D-VF7DN-46MQ"/>
+            <connection id="1ZFH4FQGP-18M7663-3NXV" from-id="1ZFH4FQGM-1GCPSHF-3NP4" to-id="1ZFH4FQGP-GF975D-3NXR"/>
+            <connection id="1ZFH5MZ39-QW2YBX-42H9" from-id="1ZDBP8DRK-285CKYR-C322" to-id="1ZFH5MZ39-4PPPTX-42H6"/>
+            <connection id="1ZFH4KDF0-1N9N50X-3QC7" from-id="1ZFH4J0R8-1K1JZGJ-3Q8M" to-id="1ZFH4KDF0-23BRK8W-3QC4"/>
+            <connection id="1ZFH52P7F-1T3NTLK-3WFH" from-id="1ZFH508YM-2BN9WGZ-3VRN" to-id="1ZFH4FQGM-1ZYQ13-3NNQ"/>
+            <connection id="1ZFH5ZNBR-NC4QDQ-45WS" from-id="1ZFH5ZNBQ-1G42WWV-45WH" to-id="1ZFH4FQGM-1ZYQ13-3NNQ"/>
+            <connection id="1ZDBP8DRP-18LG1FS-C3G3" from-id="1ZDBP8DRP-BJNVZX-C3G9" to-id="1ZDBP8DRK-KPNF07-C31W"/>
+            <connection id="1ZFH4FQGP-15MQ8C8-3NY9" from-id="1ZFH4FQGM-1M459C3-3NP7" to-id="1ZFH4FQGP-1YVYFMD-3NY7"/>
+            <connection id="1ZFH5KBJS-S2HVN6-41RZ" from-id="1ZDBP8DRK-1CWVJGP-C31H" to-id="1ZFH5KBJS-2146F9-41RW"/>
+            <connection id="1ZDBP8DRQ-2C6H0YK-C3JG" from-id="1ZDBP8DRK-KPNF07-C31W" to-id="1ZDBP8DRQ-VJK3TH-C3JC"/>
+            <connection id="1ZDBP8DRN-FX4RRH-C38L" from-id="1ZDBP8DRH-MKGDV0-C2YB" to-id="1ZDBP8DRN-1PV5XMX-C38H"/>
+            <connection id="1ZFH5ZNBR-2Z46X8-45WL" from-id="1ZFH5Z3F7-25GLPFN-45VL" to-id="1ZFH5ZNBQ-1G42WWV-45WH"/>
+            <connection id="1ZFH4FQGN-R6LH95-3NTW" from-id="1ZFH4FQGM-Q9T48J-3NNT" to-id="1ZFH4FQGN-1W2MQRY-3NTT"/>
+            <connection id="1ZDBP8DRN-1RBJTHP-C3BM" from-id="1ZDBP8DRJ-1H648Y2-C2Z8" to-id="1ZDBP8DRN-C7MVRD-C3B1"/>
+            <connection id="1ZFH5C6MN-MKQPY1-3ZX7" from-id="1ZFH5BW1D-21557X9-3Z9F" to-id="1ZDBP8DRJ-1H648Y2-C2Z8"/>
+            <connection id="1ZFH4FQGP-12FK2S4-3P1J" from-id="1ZFH4FQGP-8VN9VX-3P1Q" to-id="1ZFH4FQGM-18N34H-3NQ6"/>
+            <connection id="1ZDBP8DRP-SLJJ68-C3GD" from-id="1ZDBP8DRK-WTVRSS-C31L" to-id="1ZDBP8DRP-BJNVZX-C3G9"/>
+            <connection id="1ZFH4FQGN-2BZS1K7-3NWN" from-id="1ZFH4FQGP-1H8DNFL-3NWV" to-id="1ZFH4FQGM-18N34H-3NQ6"/>
+            <connection id="1ZDBP8DRN-27R4466-C389" from-id="1ZDBP8DRN-1PV5XMX-C38H" to-id="1ZDBP8DRL-1Z5K3BD-C34C"/>
+            <connection id="1ZFH4FQGP-29M8XH9-3NX3" from-id="1ZFH4FQGP-2KKGND-3NX9" to-id="1ZFH4FQGM-N5N4N7-3NPM"/>
+            <connection id="1ZFH62TKR-H0YM83-47D0" from-id="1ZFH62TKQ-21MG0D1-47CQ" to-id="1ZFH62TKQ-G8865S-47CM"/>
+            <connection id="1ZFH4FQGN-1830HBQ-3NVC" from-id="1ZFH4FQGM-8P6XFZ-3NNX" to-id="1ZFH4FQGN-10HHS13-3NV8"/>
+            <connection id="1ZFH4SWTF-15Z7F3T-3SYW" from-id="1ZFH4KDF0-23BRK8W-3QC4" to-id="1ZFH4SWTD-P1YZFY-3SYS"/>
+            <connection id="1ZFH5WVZ5-1865Y75-454T" from-id="1ZDBP8DRL-2CPP1ZR-C34K" to-id="1ZFH5WVZ5-1SF9FN1-454Q"/>
+            <connection id="1ZDBP8DRP-4S4H06-C3HP" from-id="1ZDBP8DRP-1CZSK43-C3HW" to-id="1ZDBP8DRL-1303XF-C34R"/>
+            <connection id="1ZDBP8DRN-1DFHJ7X-C3B9" from-id="1ZDBP8DRN-C7MVRD-C3B1" to-id="1ZDBP8DRJ-1K5R81N-C2ZG"/>
+            <connection id="1ZDBP8DRP-28MM3FX-C3DJ" from-id="1ZDBP8DRK-PXCHSW-C31D" to-id="1ZDBP8DRP-VQN9TQ-C3DG"/>
+            <connection id="1ZDBP8DRP-25P7Y45-C3D2" from-id="1ZDBP8DRK-212GLYP-C310" to-id="1ZDBP8DRP-DMZT8M-C3CZ"/>
+            <connection id="1ZFH4FQGP-25047H2-3NWY" from-id="1ZFH4FQGM-1LJ1SC3-3NP1" to-id="1ZFH4FQGP-1H8DNFL-3NWV"/>
+            <connection id="1ZFH4R96D-1J6JS3D-3SC8" from-id="1ZFH4R96D-1CMP78N-3SBZ" to-id="1ZFH4FQGN-1F4KHVW-3NQL"/>
+            <connection id="1ZFH4FQGN-J6N6XD-3NRV" from-id="1ZFH4FQGN-J132MY-3NS1" to-id="1ZFH4FQGM-1144BS9-3NN9"/>
+            <connection id="1ZFH4FQGP-14J38Y5-3NZY" from-id="1ZFH4FQGP-289ZSFV-3P04" to-id="1ZFH4FQGM-L68MBD-3NPF"/>
+            <connection id="1ZFH5KWJR-16N3DK-41SS" from-id="1ZFH5KBJS-2146F9-41RW" to-id="1ZFH5GF2S-2V9B0W-40J5"/>
+            <connection id="1ZFH606FN-1B7WYQM-45XH" from-id="1ZDBP8DRL-1303XF-C34R" to-id="1ZFH606FN-MKWFGL-45XD"/>
+            <connection id="1ZDBP8DRP-1RHD6P6-C3F0" from-id="1ZDBP8DRK-PXCHSW-C31D" to-id="1ZDBP8DRP-13JZ0Q9-C3DX"/>
+            <connection id="1ZDBP8DRP-CFKYB4-C3DQ" from-id="1ZDBP8DRP-13JZ0Q9-C3DX" to-id="1ZDBP8DRM-12YYG8Y-C36H"/>
+            <connection id="1ZFH4FQGP-1KWWSBX-3P1S" from-id="1ZFH4FQGN-JGTXR9-3NQH" to-id="1ZFH4FQGP-8VN9VX-3P1Q"/>
+            <connection id="1ZFH4M3QB-1MJ5J9C-3QZF" from-id="1ZFH4M3QB-43QDSS-3QZ5" to-id="1ZFH4FQGM-108L9X5-3NPX"/>
+            <connection id="1ZFH4FQGN-203Y6CT-3NQQ" from-id="1ZFH4FQGN-S7DMMP-3NQX" to-id="1ZFH4FQGM-1TKNGD6-3NNM"/>
+            <connection id="1ZFH4PCPH-1J9HXSJ-3RRJ" from-id="1ZFH4KDF0-23BRK8W-3QC4" to-id="1ZFH4PCPG-188J8Z4-3RRF"/>
+            <connection id="1ZFH4M3QB-1LJLSH2-3QZ8" from-id="1ZFH4KDDZ-1G7DVTJ-3QC1" to-id="1ZFH4M3QB-43QDSS-3QZ5"/>
+            <connection id="1ZFH4FQGN-63X180-3NRC" from-id="1ZFH4FQGN-1ZDVR33-3NRK" to-id="1ZFH4FQGM-1TKX56-3NNJ"/>
+            <connection id="1ZFH4FQGN-1FY95S9-3NS4" from-id="1ZFH4FQGM-1TKX56-3NNJ" to-id="1ZFH4FQGN-J132MY-3NS1"/>
+            <connection id="1ZFH4FQGP-G39JBF-3NYS" from-id="1ZFH4FQGM-268BGDM-3NPJ" to-id="1ZFH4FQGP-13CHKL1-3NYP"/>
+            <connection id="1ZFH4FQGP-1HPPDGR-3NXD" from-id="1ZFH4FQGM-1LJ1SC3-3NP1" to-id="1ZFH4FQGP-2KKGND-3NX9"/>
+            <connection id="1ZFH5BW1F-1C1B8MF-3Z9J" from-id="1ZFH48PPM-24NYVHR-3L0Z" to-id="1ZFH5BW1D-21557X9-3Z9F"/>
+            <connection id="1ZFH58J4C-S6MDG-3YKM" from-id="1ZFH58J4C-1Q58JXN-3YKC" to-id="1ZFH58J4B-12M3H51-3YK8"/>
+            <connection id="1ZDBP8DRN-1XGV8MD-C37T" from-id="1ZDBP8DRN-GXNSQF-C380" to-id="1ZDBP8DRK-PXCHSW-C31D"/>
+            <connection id="1ZFH4KDF0-5RCHF8-3QCF" from-id="1ZFH4KDF0-23BRK8W-3QC4" to-id="1ZFH4KDDZ-1G7DVTJ-3QC1"/>
+            <connection id="1ZDBP8DRQ-1K2DJF5-C3JX" from-id="1ZDBP8DRK-KPNF07-C31W" to-id="1ZDBP8DRQ-1NYKJX-C3JT"/>
+            <connection id="1ZDBP8DRN-JJFTNW-C39V" from-id="1ZDBP8DRN-C7MVRD-C3B1" to-id="1ZDBP8DRK-212GLYP-C310"/>
+            <connection id="1ZFH4QKNZ-1D04S59-3SB6" from-id="1ZFH4KDF0-23BRK8W-3QC4" to-id="1ZFH4QKNY-1HJY116-3SB3"/>
+            <connection id="1ZDBP8DRN-1J6Z4S2-C3C3" from-id="1ZDBP8DRJ-1K5R81N-C2ZG" to-id="1ZDBP8DRN-6GFSXL-C3C0"/>
+            <connection id="1ZFH4FQGN-X9Z5PS-3NTF" from-id="1ZFH4FQGM-1ZYQ13-3NNQ" to-id="1ZFH4FQGN-1XVV74M-3NT0"/>
+            <connection id="1ZDBP8DRQ-3X1RJ6-C3JM" from-id="1ZDBP8DRQ-1NYKJX-C3JT" to-id="1ZDBP8DRK-1CWVJGP-C31H"/>
+            <connection id="1ZFH5MZ39-S30FRF-42HG" from-id="1ZFH5MZ39-4PPPTX-42H6" to-id="1ZDBP8DRK-PXCHSW-C31D"/>
+            <connection id="1ZFH4FQGN-1J6V9YX-3NTM" from-id="1ZFH4FQGN-1W2MQRY-3NTT" to-id="1ZFH4FQGM-1ZYQ13-3NNQ"/>
+            <connection id="1ZFH59DK4-1XGB00Y-3Z55" from-id="1ZFH58J4B-12M3H51-3YK8" to-id="1ZFH59DK4-5D2875-3Z52"/>
+        </connection-list>
+        <resource-group-list>
+            <resource-group parent-id="1ZDBP8DRK-212GLYP-C310" group-type="text-and-image">
+                <resource id="1ZDBP8DRK-WKVYR8-C316" label="Metodologias ativas numa escola t&#xe9;cnica profissionalizante"
+                    description="Estudo que apresenta a analise do impacto das metodologias ativas quando aplicadas no ensino t&#xe9;cnico profissio- -nalizante a partir de um curso realizado em uma escola desta modalidade de ensino"
+                    resource-name="Metodologias ativas numa escola t&#xe9;cnica profissionalizante" resource-mimetype="text/x-url" resource-server-id="1ZBCTKG3P-1783RM6-1" resource-folder-id="1ZBCTKJR7-9S73X1-Z" resource-id="1ZBV70K62-JM36LV-FMJ" resource-url="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/Metodologias ativas numa escola t&#xe9;cnica profissionalizante.url"/>
+                <resource id="1ZDBP8DRK-WJX6S5-C319" label="Cultura Maker e Rob&#xf3;tica Sustent&#xe1;vel na Escola" description="Projeto que se utiliza da rob&#xf3;tica educacional para apresentar conceitos de sustentabilidade."
+                    resource-name="Cultura Maker e Rob&#xf3;tica Sustent&#xe1;vel na Escola" resource-mimetype="text/x-url" resource-server-id="1ZBCTKG3P-1783RM6-1" resource-folder-id="1ZBCTKJR7-9S73X1-Z" resource-id="1ZBW81VYX-1X1Y95D-8LR" resource-url="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/Cultura Maker e Rob&#xf3;tica Sustent&#xe1;vel na Escola.url"/>
+            </resource-group>
+            <resource-group parent-id="1ZDBP8DRH-MKGDV0-C2YB" group-type="text-and-image">
+                <resource id="1ZDBP8DRH-1K1R6M1-C2YH" label="An Inexpensive Autonomous Mobile Robot for Undergraduate Education Integration of Arduino and Hokuyo Laser Range Finders"
+                    description="Concep&#xe7;&#xe3;o te&#xf3;rica e teste de&#xa;uma plataforma para o ensino de&#xa;Mobile Robotic a partir de rob&#xf4;s&#xa;do modelo Khepera IV."
+                    resource-name="An Inexpensive Autonomous Mobile Robot for Undergraduate Education Integration of Arduino and Hokuyo Laser Range Finders" resource-mimetype="text/x-url" resource-server-id="1ZBCTKG3P-1783RM6-1"
+                    resource-folder-id="1ZBCTKJR7-9S73X1-Z" resource-id="1ZBTFCFFF-172DCWX-4W1" resource-url="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/An Inexpensive Autonomous Mobile Robot for Undergraduate Education Integration of Arduino and Hokuyo Laser Range Finders.url"/>
+                <resource id="1ZDBP8DRH-1TCMGK-C2YL" label="A Study on the Suitability of Visual Languages for Non-Expert Robot Programmers"
+                    description="Uma analise comparativa da&#xa;qualidade de aprendizagem dos estudantes&#xa;em atividades de rob&#xf3;tica baseadas&#xa;em linguagens visuais, especificamente&#xa;programa&#xe7;&#xe3;o em blocos, e linguagens textuais"
+                    resource-name="A Study on the Suitability of Visual Languages for Non-Expert Robot Programmers" resource-mimetype="text/x-url" resource-server-id="1ZBCTKG3P-1783RM6-1" resource-folder-id="1ZBCTKJR7-9S73X1-Z"
+                    resource-id="1ZBTKKHW1-1NHD3VK-RDR" resource-url="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/A Study on the Suitability of Visual Languages for Non-Expert Robot Programmers.url"/>
+                <resource id="1ZDBP8DRJ-18L1008-C2YN" label="Metodologias ativas numa escola t&#xe9;cnica profissionalizante"
+                    description="Estudo que apresenta a analise do impacto das metodologias ativas quando aplicadas no ensino t&#xe9;cnico profissio- -nalizante a partir de um curso realizado em uma escola desta modalidade de ensino"
+                    resource-name="Metodologias ativas numa escola t&#xe9;cnica profissionalizante" resource-mimetype="text/x-url" resource-server-id="1ZBCTKG3P-1783RM6-1" resource-folder-id="1ZBCTKJR7-9S73X1-Z" resource-id="1ZBV70K62-JM36LV-FMJ" resource-url="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/Metodologias ativas numa escola t&#xe9;cnica profissionalizante.url"/>
+                <resource id="1ZDBP8DRJ-L7KMG6-C2YQ" label="INVESTIGANDO POTENCIALIDADES DA COMPETI&#xc7;&#xc3;O FLL (FIRST LEGO LEAGUE) NO PROCESSO DE APRENDIZAGEM ESCOLAR DOS ESTUDANTES DA EDUCA&#xc7;&#xc3;O B&#xc1;SICA"
+                    description="Uma pesquisa sobre as&#xa;vantagens da participa&#xe7;&#xe3;o na competi&#xe7;&#xe3;o&#xa;de rob&#xf3;tica, First Lego League,&#xa;no desenvolvimento dos estudantes"
+                    resource-name="INVESTIGANDO POTENCIALIDADES DA COMPETI&#xc7;&#xc3;O FLL (FIRST LEGO LEAGUE) NO PROCESSO DE APRENDIZAGEM ESCOLAR DOS ESTUDANTES DA EDUCA&#xc7;&#xc3;O B&#xc1;SICA" resource-mimetype="text/x-url"
+                    resource-server-id="1ZBCTKG3P-1783RM6-1" resource-folder-id="1ZBCTKJR7-9S73X1-Z" resource-id="1ZBVJ2NJB-1L9KQX7-102S" resource-url="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/INVESTIGANDO POTENCIALIDADES DA COMPETI&#xc7;&#xc3;O FLL (FIRST LEGO LEAGUE) NO PROCESSO DE APRENDIZAGEM ESCOLAR DOS ESTUDANTES DA EDUCA&#xc7;&#xc3;O B&#xc1;SICA.url"/>
+                <resource id="1ZDBP8DRJ-1FXH01N-C2YS"
+                    label="Um Estudo Explorat&#xf3;rio sobre o Uso da Rob&#xf3;tica Educacional como Ferramenta de Apoio ao Ensino-Aprendizagem de L&#xf3;gica de Programa&#xe7;&#xe3;o para Alunos da Rede P&#xfa;blica do Ensino M&#xe9;dio"
+                    description="Estudo explorat&#xf3;rio no uso da rob&#xf3;tica&#xa;educacional como ferramenta para o ensino&#xa;de conceitos computacionais em uma escola&#xa;de ensino m&#xe9;dio."
+                    resource-name="Um Estudo Explorat&#xf3;rio sobre o Uso da Rob&#xf3;tica Educacional como Ferramenta de Apoio ao Ensino-Aprendizagem de L&#xf3;gica de Programa&#xe7;&#xe3;o para Alunos da Rede P&#xfa;blica do Ensino M&#xe9;dio"
+                    resource-mimetype="text/x-url" resource-server-id="1ZBCTKG3P-1783RM6-1" resource-folder-id="1ZBCTKJR7-9S73X1-Z" resource-id="1ZBVQHZ0D-Z4WDS4-1K97" resource-url="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/Um Estudo Explorat&#xf3;rio sobre o Uso da Rob&#xf3;tica Educacional como Ferramenta de Apoio ao Ensino-Aprendizagem de L&#xf3;gica de Programa&#xe7;&#xe3;o para Alunos da Rede P&#xfa;blica do Ensino M&#xe9;dio.url"/>
+                <resource id="1ZDBP8DRJ-1M6P05L-C2YV" label="Tecendo Espa&#xe7;os e Experi&#xea;ncias no Campo da Rob&#xf3;tica Educacional para Fomentar o Interesse de Meninas pela &#xe1;rea de Computa&#xe7;&#xe3;o"
+                    description="Relato de experiencia de uma atividade de&#xa;extens&#xe3;o onde as participantes ministravam&#xa;oficinas para alunas do ensino m&#xe9;dio com&#xa;o objetivo de fomentar interesse na &#xe1;rea da&#xa;computa&#xe7;&#xe3;o e apresentar conceitos b&#xe1;sicos"
+                    resource-name="Tecendo Espa&#xe7;os e Experi&#xea;ncias no Campo da Rob&#xf3;tica Educacional para Fomentar o Interesse de Meninas pela &#xe1;rea de Computa&#xe7;&#xe3;o" resource-mimetype="text/x-url"
+                    resource-server-id="1ZBCTKG3P-1783RM6-1" resource-folder-id="1ZBCTKJR7-9S73X1-Z" resource-id="1ZBVR1BFM-1JXKQ6G-1M71" resource-url="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/Tecendo Espa&#xe7;os e Experi&#xea;ncias no Campo da Rob&#xf3;tica Educacional para Fomentar o Interesse de Meninas pela &#xe1;rea de Computa&#xe7;&#xe3;o.url"/>
+                <resource id="1ZDBP8DRJ-21306BT-C2YX" label="Rob&#xf3;tica Pedag&#xf3;gica no Exerc&#xed;cio do Pensamento Computacional"
+                    description="Pesquisa explorat&#xf3;ria qualitativa&#xa;que a partir de uma oficina de&#xa;rob&#xf3;tica para estudantes do ensino&#xa;m&#xe9;dio visava desenvolver habilidades&#xa;do pensamento computacional"
+                    resource-name="Rob&#xf3;tica Pedag&#xf3;gica no Exerc&#xed;cio do Pensamento Computacional" resource-mimetype="text/x-url" resource-server-id="1ZBCTKG3P-1783RM6-1" resource-folder-id="1ZBCTKJR7-9S73X1-Z"
+                    resource-id="1ZBVRKT5W-X637RW-1PGR" resource-url="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/Rob&#xf3;tica Pedag&#xf3;gica no Exerc&#xed;cio do Pensamento Computacional.url"/>
+                <resource id="1ZDBP8DRJ-9MGKM3-C2YZ"
+                    label="GEORob&#xf3;tica - Uma proposta l&#xfa;dica interdisciplinar para Ensino de Geografia no Ensino M&#xe9;dio um relato de experi&#xea;ncia da rob&#xf3;tica educacional com alunos de escola p&#xfa;blica"
+                    description="Relato de experiencia de um projeto&#xa;que a partir da rob&#xf3;tica educacional leva os&#xa;estudantes do ensino m&#xe9;dio participantes a&#xa;refletir sobre quest&#xf5;es geopol&#xed;ticas&#xa;referentes aos processos de produ&#xe7;&#xe3;o."
+                    resource-name="GEORob&#xf3;tica - Uma proposta l&#xfa;dica interdisciplinar para Ensino de Geografia no Ensino M&#xe9;dio um relato de experi&#xea;ncia da rob&#xf3;tica educacional com alunos de escola p&#xfa;blica"
+                    resource-mimetype="text/x-url" resource-server-id="1ZBCTKG3P-1783RM6-1" resource-folder-id="1ZBCTKJR7-9S73X1-Z" resource-id="1ZBVS09H9-275QC97-1RX1" resource-url="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/GEORob&#xf3;tica - Uma proposta l&#xfa;dica interdisciplinar para Ensino de Geografia no Ensino M&#xe9;dio um relato de experi&#xea;ncia da rob&#xf3;tica educacional com alunos de escola p&#xfa;blica.url"/>
+                <resource id="1ZDBP8DRJ-1WN5WH0-C2Z1" label="Desenvolvimento das compet&#xea;ncias de Computa&#xe7;&#xe3;o dispostas na BNCC a partir da Aprendizagem Baseada em Problemas com alunos do ensino fundamental"
+                    description="Relato de experiencia que apresenta&#xa;tr&#xea;s projetos que tem o objetivo de&#xa;desenvolver habilidades presentes da&#xa;nova BNCC a partir da aprendizagem&#xa;baseada em problemas. Destes tr&#xea;s&#xa;projetos dois se utilizam da rob&#xf3;tica"
+                    resource-name="Desenvolvimento das compet&#xea;ncias de Computa&#xe7;&#xe3;o dispostas na BNCC a partir da Aprendizagem Baseada em Problemas com alunos do ensino fundamental" resource-mimetype="text/x-url"
+                    resource-server-id="1ZBCTKG3P-1783RM6-1" resource-folder-id="1ZBCTKJR7-9S73X1-Z" resource-id="1ZBW7B3VM-2J78WN-2JC" resource-url="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/Desenvolvimento das compet&#xea;ncias de Computa&#xe7;&#xe3;o dispostas na BNCC a partir da Aprendizagem Baseada em Problemas com alunos do ensino fundamental.url"/>
+            </resource-group>
+            <resource-group parent-id="1ZDBP8DRJ-1K5R81N-C2ZG" group-type="text-and-image">
+                <resource id="1ZDBP8DRJ-1ZSS8WL-C2ZN" label="Accessible Maker-Based Approaches to Educational Robotics in Online Learning"
+                    description="Relato de experi&#xea;ncia no desenvolvimento de&#xa;duas atividades online de rob&#xf3;tica&#xa;educacional de baixo custo" resource-name="Accessible Maker-Based Approaches to Educational Robotics in Online Learning"
+                    resource-mimetype="text/x-url" resource-server-id="1ZBCTKG3P-1783RM6-1" resource-folder-id="1ZBCTKJR7-9S73X1-Z" resource-id="1ZBTGTWVT-BRJ05G-BYS" resource-url="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/Accessible Maker-Based Approaches to Educational Robotics in Online Learning.url"/>
+                <resource id="1ZDBP8DRJ-G5DR96-C2ZR" label="Processo de Aprendizagem de Matem&#xe1;tica &#xe0; luz das Metodologias Ativas e do Pensamento Computacional"
+                    description="Estudo que apresenta analise de projeto no qual s&#xe3;o aplicados conceitos&#xa;matem&#xe1;ticos e computacionais para a&#xa;cria&#xe7;&#xe3;o de jogos eletr&#xf4;nicos que auxiliem no tratamento da doen&#xe7;a de Parkinson"
+                    resource-name="Processo de Aprendizagem de Matem&#xe1;tica &#xe0; luz das Metodologias Ativas e do Pensamento Computacional" resource-mimetype="text/x-url" resource-server-id="1ZBCTKG3P-1783RM6-1" resource-folder-id="1ZBCTKJR7-9S73X1-Z"
+                    resource-id="1ZBV5PGY3-MPXTFH-4CQ" resource-url="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/Processo de Aprendizagem de Matem&#xe1;tica &#xe0; luz das Metodologias Ativas e do Pensamento Computacional.url"/>
+                <resource id="1ZDBP8DRJ-1H10RCX-C2ZT" label="Contexto Formativo de Inven&#xe7;&#xe3;o Rob&#xf3;tico-Matem&#xe1;tica Pensamento Computacional e Matem&#xe1;tica Cr&#xed;tica"
+                    description="Estudo que apresenta analise de projeto no qual s&#xe3;o aplicados conceitos matem&#xe1;ticos e computacionais para a cria&#xe7;&#xe3;o de jogos eletr&#xf4;nicos que auxiliem no tratamento da doen&#xe7;a de Parkinson"
+                    resource-name="Contexto Formativo de Inven&#xe7;&#xe3;o Rob&#xf3;tico-Matem&#xe1;tica Pensamento Computacional e Matem&#xe1;tica Cr&#xed;tica" resource-mimetype="text/x-url" resource-server-id="1ZBCTKG3P-1783RM6-1"
+                    resource-folder-id="1ZBCTKJR7-9S73X1-Z" resource-id="1ZBV672SH-5KZP08-8JP" resource-url="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/Contexto Formativo de Inven&#xe7;&#xe3;o Rob&#xf3;tico-Matem&#xe1;tica Pensamento Computacional e Matem&#xe1;tica Cr&#xed;tica.url"/>
+                <resource id="1ZDBP8DRJ-1LLSMD2-C2ZW" label="Metodologias ativas numa escola t&#xe9;cnica profissionalizante"
+                    description="Estudo que apresenta a analise do impacto das metodologias ativas quando aplicadas no ensino t&#xe9;cnico profissio- -nalizante a partir de um curso realizado em uma escola desta modalidade de ensino"
+                    resource-name="Metodologias ativas numa escola t&#xe9;cnica profissionalizante" resource-mimetype="text/x-url" resource-server-id="1ZBCTKG3P-1783RM6-1" resource-folder-id="1ZBCTKJR7-9S73X1-Z" resource-id="1ZBV70K62-JM36LV-FMJ" resource-url="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/Metodologias ativas numa escola t&#xe9;cnica profissionalizante.url"/>
+                <resource id="1ZDBP8DRJ-GX3L42-C2ZY" label="Pensando a Rob&#xf3;tica na Educa&#xe7;&#xe3;o B&#xe1;sica"
+                    description="Um relato de experi&#xea;ncia no&#xa;desenvolvimento de um projeto de extens&#xe3;o&#xa;universit&#xe1;ria no qual a rob&#xf3;tica &#xe9; utilizada&#xa;como ferramenta para refor&#xe7;ar os&#xa;conhecimentos de f&#xed;sica que os estudantes do&#xa;ensino fundamental e m&#xe9;dio participantes&#xa;adquiriram nas aulas regulares."
+                    resource-name="Pensando a Rob&#xf3;tica na Educa&#xe7;&#xe3;o B&#xe1;sica" resource-mimetype="text/x-url" resource-server-id="1ZBCTKG3P-1783RM6-1" resource-folder-id="1ZBCTKJR7-9S73X1-Z" resource-id="1ZBVCD81X-14DF139-Q3T" resource-url="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/Pensando a Rob&#xf3;tica na Educa&#xe7;&#xe3;o B&#xe1;sica.url"/>
+                <resource id="1ZDBP8DRJ-22WN67J-C300" label="Educational  Open  Robotics  Workshops experience    report    of    a    pedagogical innovation project"
+                    description="Um relato de experi&#xea;ncia&#xa;de um projeto de extens&#xe3;o no qual os&#xa;participantes ministraram cursos de rob&#xf3;tica&#xa;para estudantes e educadores de diversas&#xa;faixas et&#xe1;rias com o objetivo de incentivar&#xa;o estudo e o uso da Rob&#xf3;tica"
+                    resource-name="Educational  Open  Robotics  Workshops experience    report    of    a    pedagogical innovation project" resource-mimetype="text/x-url" resource-server-id="1ZBCTKG3P-1783RM6-1" resource-folder-id="1ZBCTKJR7-9S73X1-Z"
+                    resource-id="1ZBVG4WCR-Z7CRG2-TZG" resource-url="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/Educational  Open  Robotics  Workshops experience    report    of    a    pedagogical innovation project.url"/>
+                <resource id="1ZDBP8DRJ-52VXCQ-C302" label="Matem&#xe1;tica e F&#xed;sica em experi&#xea;ncias de Rob&#xf3;tica Livre explorando o sensor ultrass&#xf4;nico"
+                    description="Um relato de experi&#xea;ncia&#xa;de um projeto no qual os que teve como objetivo&#xa;fomentar a criatividade e a inova&#xe7;&#xe3;o de seus&#xa;participantes ao mesmo tempo que desenvolvia&#xa;conceitos de f&#xed;sica como a velocidade do som&#xa;por meio da Rob&#xf3;tica Educacional"
+                    resource-name="Matem&#xe1;tica e F&#xed;sica em experi&#xea;ncias de Rob&#xf3;tica Livre explorando o sensor ultrass&#xf4;nico" resource-mimetype="text/x-url" resource-server-id="1ZBCTKG3P-1783RM6-1"
+                    resource-folder-id="1ZBCTKJR7-9S73X1-Z" resource-id="1ZBVGKJ8Y-14NZWJ6-XS8" resource-url="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/Matem&#xe1;tica e F&#xed;sica em experi&#xea;ncias de Rob&#xf3;tica Livre explorando o sensor ultrass&#xf4;nico.url"/>
+                <resource id="1ZDBP8DRJ-2CX40Y9-C304" label="INVESTIGANDO POTENCIALIDADES DA COMPETI&#xc7;&#xc3;O FLL (FIRST LEGO LEAGUE) NO PROCESSO DE APRENDIZAGEM ESCOLAR DOS ESTUDANTES DA EDUCA&#xc7;&#xc3;O B&#xc1;SICA"
+                    description="Uma pesquisa sobre as&#xa;vantagens da participa&#xe7;&#xe3;o na competi&#xe7;&#xe3;o&#xa;de rob&#xf3;tica, First Lego League,&#xa;no desenvolvimento dos estudantes"
+                    resource-name="INVESTIGANDO POTENCIALIDADES DA COMPETI&#xc7;&#xc3;O FLL (FIRST LEGO LEAGUE) NO PROCESSO DE APRENDIZAGEM ESCOLAR DOS ESTUDANTES DA EDUCA&#xc7;&#xc3;O B&#xc1;SICA" resource-mimetype="text/x-url"
+                    resource-server-id="1ZBCTKG3P-1783RM6-1" resource-folder-id="1ZBCTKJR7-9S73X1-Z" resource-id="1ZBVJ2NJB-1L9KQX7-102S" resource-url="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/INVESTIGANDO POTENCIALIDADES DA COMPETI&#xc7;&#xc3;O FLL (FIRST LEGO LEAGUE) NO PROCESSO DE APRENDIZAGEM ESCOLAR DOS ESTUDANTES DA EDUCA&#xc7;&#xc3;O B&#xc1;SICA.url"/>
+                <resource id="1ZDBP8DRJ-9G8D2S-C306" label="Inform&#xe1;tica na Educa&#xe7;&#xe3;o no Ensino Fundamental I An&#xe1;lise das Pr&#xe1;ticas da escola Aloys Jo&#xe3;o Mann de Cascavel"
+                    description="Um estudo de caso sobre&#xa;uma proposta de ensino l&#xfa;dico&#xa;da computa&#xe7;&#xe3;o para estudantes do&#xa;terceiro, quarto e quinto anos&#xa;do ensino fundamental"
+                    resource-name="Inform&#xe1;tica na Educa&#xe7;&#xe3;o no Ensino Fundamental I An&#xe1;lise das Pr&#xe1;ticas da escola Aloys Jo&#xe3;o Mann de Cascavel" resource-mimetype="text/x-url" resource-server-id="1ZBCTKG3P-1783RM6-1"
+                    resource-folder-id="1ZBCTKJR7-9S73X1-Z" resource-id="1ZBVJZKJ1-1QLVR32-140X" resource-url="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/Inform&#xe1;tica na Educa&#xe7;&#xe3;o no Ensino Fundamental I An&#xe1;lise das Pr&#xe1;ticas da escola Aloys Jo&#xe3;o Mann de Cascavel.url"/>
+                <resource id="1ZDBP8DRJ-S822NQ-C308" label="A rob&#xf3;tica livre e o ensino de f&#xed;sica e de programa&#xe7;&#xe3;o desenvolvendo um teclado musical eletr&#xf4;nico"
+                    description="Relato de experiencia que&#xa;apresenta o processo de desenvolvimento&#xa;de um teclado musical em uma oficina de&#xa;rob&#xf3;tica com o uso de conceitos da f&#xed;sica"
+                    resource-name="A rob&#xf3;tica livre e o ensino de f&#xed;sica e de programa&#xe7;&#xe3;o desenvolvendo um teclado musical eletr&#xf4;nico" resource-mimetype="text/x-url" resource-server-id="1ZBCTKG3P-1783RM6-1"
+                    resource-folder-id="1ZBCTKJR7-9S73X1-Z" resource-id="1ZBVMT2HF-10LQDVY-1BT3" resource-url="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/A rob&#xf3;tica livre e o ensino de f&#xed;sica e de programa&#xe7;&#xe3;o desenvolvendo um teclado musical eletr&#xf4;nico.url"/>
+                <resource id="1ZDBP8DRJ-327S7L-C30B" label="Rob&#xf3;tica na educa&#xe7;&#xe3;o n&#xe3;o &#xe9; um bicho-pap&#xe3;o relato de experi&#xea;ncia na rede p&#xfa;blica municipal"
+                    description="Relato de experi&#xea;ncia de um projeto&#xa;com dura&#xe7;&#xe3;o de um ano no qual foi&#xa;ministrado um curso de rob&#xf3;tica&#xa;para estudantes do nono&#xa;ano do ensino fundamental."
+                    resource-name="Rob&#xf3;tica na educa&#xe7;&#xe3;o n&#xe3;o &#xe9; um bicho-pap&#xe3;o relato de experi&#xea;ncia na rede p&#xfa;blica municipal" resource-mimetype="text/x-url" resource-server-id="1ZBCTKG3P-1783RM6-1"
+                    resource-folder-id="1ZBCTKJR7-9S73X1-Z" resource-id="1ZBVSH61C-1G36QWL-1W5S" resource-url="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/Rob&#xf3;tica na educa&#xe7;&#xe3;o n&#xe3;o &#xe9; um bicho-pap&#xe3;o relato de experi&#xea;ncia na rede p&#xfa;blica municipal.url"/>
+                <resource id="1ZDBP8DRJ-1LYDFPS-C30D" label="Rob&#xf3;tica educacional uma ferramenta para ensino de l&#xf3;gica de programa&#xe7;&#xe3;o no ensino fundamental"
+                    description="Relato de experi&#xea;ncia de uma oficina&#xa;de rob&#xf3;tica para estudantes do ensino&#xa;fundamental que teve o objetivo de&#xa;desenvolver a l&#xf3;gica de programa&#xe7;&#xe3;o&#xa;dos estudantes participantes."
+                    resource-name="Rob&#xf3;tica educacional uma ferramenta para ensino de l&#xf3;gica de programa&#xe7;&#xe3;o no ensino fundamental" resource-mimetype="text/x-url" resource-server-id="1ZBCTKG3P-1783RM6-1"
+                    resource-folder-id="1ZBCTKJR7-9S73X1-Z" resource-id="1ZBVV7JSK-7LZ4FD-23X6" resource-url="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/Rob&#xf3;tica educacional uma ferramenta para ensino de l&#xf3;gica de programa&#xe7;&#xe3;o no ensino fundamental.url"/>
+                <resource id="1ZDBP8DRK-BM4YZK-C30G" label="Rob&#xf3;tica Criativa desenvolvimento de projetos de engenharia com crian&#xe7;as e jovens"
+                    description="Relato de experi&#xea;ncia que apresenta&#xa;projetos de rob&#xf3;tica que tiveram o&#xa;objetivo fomentar, nos estudantes participantes,&#xa;interesse pela programa&#xe7;&#xe3;o computacional"
+                    resource-name="Rob&#xf3;tica Criativa desenvolvimento de projetos de engenharia com crian&#xe7;as e jovens" resource-mimetype="text/x-url" resource-server-id="1ZBCTKG3P-1783RM6-1" resource-folder-id="1ZBCTKJR7-9S73X1-Z"
+                    resource-id="1ZBVYTHP1-WG61GL-2BSB" resource-url="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/Rob&#xf3;tica Criativa desenvolvimento de projetos de engenharia com crian&#xe7;as e jovens.url"/>
+                <resource id="1ZDBP8DRK-LRDMJ4-C30J" label="Relato de experi&#xea;ncia projeto Rob&#xf3;tica na Escola em Tramanda&#xed; no Rio Grande do Sul"
+                    description="Relato de experiencia de uma atividade&#xa;que visa desenvolver o interesse pela&#xa;literatura em estudantes do quinto ano&#xa;do ensino fundamental por meio da&#xa;representa&#xe7;&#xe3;o rob&#xf3;tica dos textos"
+                    resource-name="Relato de experi&#xea;ncia projeto Rob&#xf3;tica na Escola em Tramanda&#xed; no Rio Grande do Sul" resource-mimetype="text/x-url" resource-server-id="1ZBCTKG3P-1783RM6-1" resource-folder-id="1ZBCTKJR7-9S73X1-Z"
+                    resource-id="1ZBVZLLW6-Y8H0NZ-2H4Y" resource-url="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/Relato de experi&#xea;ncia projeto Rob&#xf3;tica na Escola em Tramanda&#xed; no Rio Grande do Sul.url"/>
+                <resource id="1ZDBP8DRK-89C35V-C30M" label="Linha de Montagem projeto interdisciplinar relacionando rob&#xf3;tica com o estudo de fun&#xe7;&#xf5;es matem&#xe1;ticas"
+                    description="Relato de experi&#xea;ncia de um projeto onde&#xa;os estudantes simularam uma linha de montagem&#xa;industrial por meio de kits Lego Mindstorm&#xa;com o intuito de desenvolver conceitos da&#xa;computa&#xe7;&#xe3;o e da matem&#xe1;tica financeira."
+                    resource-name="Linha de Montagem projeto interdisciplinar relacionando rob&#xf3;tica com o estudo de fun&#xe7;&#xf5;es matem&#xe1;ticas" resource-mimetype="text/x-url" resource-server-id="1ZBCTKG3P-1783RM6-1"
+                    resource-folder-id="1ZBCTKJR7-9S73X1-Z" resource-id="1ZBW40S7S-J9D4F3-2TC0" resource-url="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/Linha de Montagem projeto interdisciplinar relacionando rob&#xf3;tica com o estudo de fun&#xe7;&#xf5;es matem&#xe1;ticas.url"/>
+                <resource id="1ZDBP8DRK-20X37BP-C30Q" label="Desenvolvimento e Aplica&#xe7;&#xe3;o de uma Estrat&#xe9;gia Pedag&#xf3;gica para o Ensino de Redes de Computadores com Rob&#xf3;tica Educacional"
+                    description="Estudo que apresenta a concep&#xe7;&#xe3;o&#xa;e aplica&#xe7;&#xe3;o de atividades praticas na&#xa;disciplina de rede de computadores a&#xa;partir da rob&#xf3;tica educacional"
+                    resource-name="Desenvolvimento e Aplica&#xe7;&#xe3;o de uma Estrat&#xe9;gia Pedag&#xf3;gica para o Ensino de Redes de Computadores com Rob&#xf3;tica Educacional" resource-mimetype="text/x-url" resource-server-id="1ZBCTKG3P-1783RM6-1"
+                    resource-folder-id="1ZBCTKJR7-9S73X1-Z" resource-id="1ZBW70GH7-47G7Y3-M0" resource-url="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/Desenvolvimento e Aplica&#xe7;&#xe3;o de uma Estrat&#xe9;gia Pedag&#xf3;gica para o Ensino de Redes de Computadores com Rob&#xf3;tica Educacional.url"/>
+            </resource-group>
+        </resource-group-list>
+        <concept-appearance-list>
+            <concept-appearance id="1ZFH606FM-12KPHPG-45X9" x="2076" y="1092" width="49" height="27" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1"/>
+            <concept-appearance id="1ZDBP8DRL-2CPP1ZR-C34K" x="2175" y="1051" width="74" height="30" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <concept-appearance id="1ZDBP8DRL-1303XF-C34R" x="2296" y="1054" width="87" height="30" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <concept-appearance id="1ZFH4FQGM-8P6XFZ-3NNX" x="1264" y="634" width="89" height="27" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZFH4FQGM-1FK1YZX-3NP0"/>
+            <concept-appearance id="1ZFH48PPM-24NYVHR-3L0Z" x="2303" y="436" width="124" height="27" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                background-image-style="full" border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1"/>
+            <concept-appearance id="1ZFH4BV0B-WRC2LT-3LM2" x="2085" y="465" width="51" height="27" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1"/>
+            <concept-appearance id="1ZFH4FQGM-1TKNGD6-3NNM" x="1160" y="459" width="78" height="27" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <concept-appearance id="1ZFH4FQGM-1ZYQ13-3NNQ" x="1259" y="514" width="82" height="27" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <concept-appearance id="1ZFH4FQGM-1GCPSHF-3NP4" x="1311" y="797" width="124" height="30" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZFH4FQGM-1FK1YZX-3NP0"/>
+            <concept-appearance id="1ZFH4FQGM-1TKX56-3NNJ" x="1279" y="299" width="149" height="30" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <concept-appearance id="1ZFH4SWTD-P1YZFY-3SYS" x="1888" y="589" width="88" height="28" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1"/>
+            <concept-appearance id="1ZFH4FQGN-1N5WDRR-3NQD" x="919" y="1000" width="105" height="30" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZFH4FQGM-1FK1YZX-3NP0"/>
+            <concept-appearance id="1ZFH4FQGM-Q9T48J-3NNT" x="1061" y="531" width="78" height="30" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <concept-appearance id="1ZFH4FQGM-1M459C3-3NP7" x="1223" y="758" width="69" height="42" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZFH4FQGM-1FK1YZX-3NP0"/>
+            <concept-appearance id="1ZDBP8DRK-KPNF07-C31W" x="2306" y="957" width="57" height="41" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <concept-appearance id="1ZFH4J0R8-1K1JZGJ-3Q8M" x="1983" y="414" width="81" height="30" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1"/>
+            <concept-appearance id="1ZDBP8DRK-PXCHSW-C31D" x="1893" y="830" width="61" height="28" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <concept-appearance id="1ZFH4FQGM-1144BS9-3NN9" x="1257" y="402" width="175" height="30" font-name="Verdana" font-size="12" font-style="bold" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <concept-appearance id="1ZDBP8DRK-212GLYP-C310" x="2211" y="674" width="92" height="55" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZDBP8DRK-92QMC3-C313"/>
+            <concept-appearance id="1ZFH4YHFS-170023V-3V37" x="1930" y="346" width="76" height="30" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1"/>
+            <concept-appearance id="1ZFH4FQGM-1HXBHTS-3NQ0" x="1545" y="732" width="93" height="42" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZFH4FQGM-1FK1YZX-3NP0"/>
+            <concept-appearance id="1ZFH58J4B-12M3H51-3YK8" x="2282" y="298" width="159" height="30" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1"/>
+            <concept-appearance id="1ZFH4FQGM-1D7BG5D-3NNF" x="1279" y="209" width="161" height="28" font-style="bold" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <concept-appearance id="1ZDBP8DRK-285CKYR-C322" x="2129" y="1000" width="100" height="30" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <concept-appearance id="1ZDBP8DRH-MKGDV0-C2YB" x="1872" y="695" width="158" height="57" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <concept-appearance id="1ZFH4FQGN-1LF797V-3NQ9" x="1045" y="996" width="93" height="30" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZFH4FQGM-1FK1YZX-3NP0"/>
+            <concept-appearance id="1ZFH4FQGN-1F4KHVW-3NQL" x="1692" y="587" width="81" height="41" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZFH4FQGN-15CL2B-3NQP"/>
+            <concept-appearance id="1ZFH62TKQ-G8865S-47CM" x="1745" y="1100" width="112" height="29" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1"/>
+            <concept-appearance id="1ZFH4FQGM-VX0X58-3NPB" x="1317" y="874" width="83" height="27" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <concept-appearance id="1ZFH4PCPG-188J8Z4-3RRF" x="1712" y="420" width="82" height="30" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1"/>
+            <concept-appearance id="1ZFH4FQGM-R8CGPH-3NQ3" x="1081" y="903" width="79" height="27" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZFH4FQGM-1FK1YZX-3NP0"/>
+            <concept-appearance id="1ZFH4FQGN-JGTXR9-3NQH" x="1680" y="936" width="64" height="42" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <concept-appearance id="1ZFH4QKNY-1HJY116-3SB3" x="1806" y="532" width="86" height="30" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1"/>
+            <concept-appearance id="1ZFH4FQGM-268BGDM-3NPJ" x="1385" y="737" width="71" height="28" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZFH4FQGM-1FK1YZX-3NP0"/>
+            <concept-appearance id="1ZDBP8DRM-12YYG8Y-C36H" x="2016" y="870" width="165" height="30" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <concept-appearance id="1ZDBP8DRL-1Z5K3BD-C34C" x="1774" y="839" width="81" height="27" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <concept-appearance id="1ZFH4XNB1-PJ6X0R-3V1Y" x="2146" y="351" width="118" height="44" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1"/>
+            <concept-appearance id="1ZFH4KDDZ-1G7DVTJ-3QC1" x="1768" y="485" width="61" height="28" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1"/>
+            <concept-appearance id="1ZDBP8DRK-264LS3-C31P" x="2318" y="739" width="101" height="43" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <concept-appearance id="1ZFH5Z3F7-25GLPFN-45VL" x="842" y="1054" width="83" height="29" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1"/>
+            <concept-appearance id="1ZFH4FQGM-18N34H-3NQ6" x="981" y="934" width="53" height="30" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255" border-color="200,200,200,255"
+                border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZFH4FQGM-1FK1YZX-3NP0"/>
+            <concept-appearance id="1ZFH4FQGM-N5N4N7-3NPM" x="1181" y="872" width="81" height="27" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZFH4FQGM-1FK1YZX-3NP0"/>
+            <concept-appearance id="1ZDBP8DRJ-1K5R81N-C2ZG" x="2158" y="744" width="158" height="57" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZDBP8DRJ-4Z2BVP-C2ZK"/>
+            <concept-appearance id="1ZFH4FQGM-9QJ2YF-3NPQ" x="1494" y="669" width="60" height="27" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZFH4FQGM-1FK1YZX-3NP0"/>
+            <concept-appearance id="1ZFH5WVZ4-10RS28P-454M" x="1634" y="1032" width="84" height="30" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1"/>
+            <concept-appearance id="1ZFH4FQGM-108L9X5-3NPX" x="1549" y="488" width="96" height="56" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZFH4FQGM-1FK1YZX-3NP0"/>
+            <concept-appearance id="1ZDBP8DRK-1CWVJGP-C31H" x="2106" y="915" width="71" height="30" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <concept-appearance id="1ZFH61N2D-VF7DN-46MQ" x="1915" y="1095" width="100" height="30" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1"/>
+            <concept-appearance id="1ZDBP8DRK-WTVRSS-C31L" x="2206" y="835" width="71" height="27" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <concept-appearance id="1ZDBP8DRJ-1H648Y2-C2Z8" x="2093" y="567" width="137" height="30" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <concept-appearance id="1ZFH4ZMWR-19CWKMB-3VPZ" x="1789" y="346" width="76" height="42" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1"/>
+            <concept-appearance id="1ZFH4FQGM-1LJ1SC3-3NP1" x="1035" y="656" width="76" height="27" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZFH4FQGM-1FK1YZX-3NP0"/>
+            <concept-appearance id="1ZFH4FQGM-L68MBD-3NPF" x="1478" y="837" width="55" height="27" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZFH4FQGM-1FK1YZX-3NP0"/>
+            <concept-appearance id="1ZFH5GF2S-2V9B0W-40J5" x="1313" y="999" width="75" height="30" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255"
+                border-color="200,200,200,255" border-style="solid" border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1"/>
+        </concept-appearance-list>
+        <linking-phrase-appearance-list>
+            <linking-phrase-appearance id="1ZDBP8DRQ-VJK3TH-C3JC" x="2238" y="997" width="51" height="26" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" border-color="0,0,0,255"
+                border-style="none" border-thickness="1" border-shape="rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <linking-phrase-appearance id="1ZDBP8DRP-VQN9TQ-C3DG" x="1846" y="833" width="18" height="11" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" border-color="0,0,0,255"
+                border-style="none" border-thickness="1" border-shape="rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <linking-phrase-appearance id="1ZFH4FQGP-1H8DNFL-3NWV" x="994" y="800" width="42" height="11" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" border-color="0,0,0,255"
+                border-style="none" border-thickness="1" border-shape="rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <linking-phrase-appearance id="1ZFH61N2F-SC92QH-46MT" x="2009" y="1091" width="59" height="41"/>
+            <linking-phrase-appearance id="1ZFH59DK4-5D2875-3Z52" x="2298" y="362" width="77" height="14"/>
+            <linking-phrase-appearance id="1ZFH4FQGP-289ZSFV-3P04" x="1493" y="799" width="75" height="11" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" border-color="0,0,0,255"
+                border-style="none" border-thickness="1" border-shape="rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZFH4FQGM-1FK1YZX-3NP0"/>
+            <linking-phrase-appearance id="1ZFH4R96D-1CMP78N-3SBZ" x="1794" y="586" width="73" height="26"/>
+            <linking-phrase-appearance id="1ZFH4FQGP-2KKGND-3NX9" x="1106" y="769" width="49" height="11" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" border-color="0,0,0,255"
+                border-style="none" border-thickness="1" border-shape="rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZFH4FQGM-1FK1YZX-3NP0"/>
+            <linking-phrase-appearance id="1ZFH5ZNBQ-1G42WWV-45WH" x="933" y="609" width="17" height="11"/>
+            <linking-phrase-appearance id="1ZDBP8DRQ-1NYKJX-C3JT" x="2199" y="921" width="52" height="28" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" border-color="0,0,0,255"
+                border-style="none" border-thickness="1" border-shape="rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <linking-phrase-appearance id="1ZFH4FQGN-1ZDVR33-3NRK" x="1267" y="251" width="141" height="14" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" border-color="0,0,0,255"
+                border-style="none" border-thickness="1" border-shape="rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <linking-phrase-appearance id="1ZFH4Q14K-1TQ1BFK-3S94" x="1464" y="422" width="37" height="11"/>
+            <linking-phrase-appearance id="1ZFH5BW1D-21557X9-3Z9F" x="2194" y="450" width="34" height="9"/>
+            <linking-phrase-appearance id="1ZFH4FQGP-53RS9C-3P0L" x="1519" y="905" width="76" height="14" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" border-color="0,0,0,255"
+                border-style="none" border-thickness="1" border-shape="rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <linking-phrase-appearance id="1ZFH5Y94V-23ZSKS8-45TN" x="1542" y="1029" width="17" height="11"/>
+            <linking-phrase-appearance id="1ZFH4FQGP-1BBRKDL-3P12" x="977" y="965" width="17" height="11" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" border-color="0,0,0,255"
+                border-style="none" border-thickness="1" border-shape="rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZFH4FQGM-1FK1YZX-3NP0"/>
+            <linking-phrase-appearance id="1ZFH5HSH1-DZWJ49-414J" x="1757" y="970" width="82" height="11"/>
+            <linking-phrase-appearance id="1ZFH4FQGN-10HHS13-3NV8" x="1222" y="679" width="35" height="11" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" border-color="0,0,0,255"
+                border-style="none" border-thickness="1" border-shape="rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZFH4FQGM-1FK1YZX-3NP0"/>
+            <linking-phrase-appearance id="1ZFH4YHFT-17QR5N2-3V3B" x="2038" y="348" width="85" height="28"/>
+            <linking-phrase-appearance id="1ZFH4FQGP-1YVYFMD-3NY7" x="1191" y="809" width="69" height="26" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" border-color="0,0,0,255"
+                border-style="none" border-thickness="1" border-shape="rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZFH4FQGM-1FK1YZX-3NP0"/>
+            <linking-phrase-appearance id="1ZDBP8DRN-C7MVRD-C3B1" x="2094" y="617" width="44" height="14" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" border-color="0,0,0,255"
+                border-style="none" border-thickness="1" border-shape="rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <linking-phrase-appearance id="1ZFH4FQGN-1W2MQRY-3NTT" x="1147" y="525" width="89" height="14" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" border-color="0,0,0,255"
+                border-style="none" border-thickness="1" border-shape="rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <linking-phrase-appearance id="1ZFH4M3QB-43QDSS-3QZ5" x="1667" y="495" width="73" height="26"/>
+            <linking-phrase-appearance id="1ZFH5MZ39-4PPPTX-42H6" x="1911" y="919" width="51" height="26"/>
+            <linking-phrase-appearance id="1ZFH4FQGN-2686T56-3NWC" x="1084" y="833" width="86" height="13" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" border-color="0,0,0,255"
+                border-style="none" border-thickness="1" border-shape="rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZFH4FQGM-1FK1YZX-3NP0"/>
+            <linking-phrase-appearance id="1ZFH4FQGP-1K7Z6L1-3NZN" x="1569" y="626" width="73" height="28" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" border-color="0,0,0,255"
+                border-style="none" border-thickness="1" border-shape="rectangle" text-alignment="center" shadow-color="none" min-width="22" min-height="7" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <linking-phrase-appearance id="1ZDBP8DRN-1PV5XMX-C38H" x="1768" y="770" width="139" height="28" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" border-color="0,0,0,255"
+                border-style="none" border-thickness="1" border-shape="rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <linking-phrase-appearance id="1ZFH4FQGP-13CHKL1-3NYP" x="1399" y="845" width="62" height="11" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" border-color="0,0,0,255"
+                border-style="none" border-thickness="1" border-shape="rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZFH4FQGM-1FK1YZX-3NP0"/>
+            <linking-phrase-appearance id="1ZFH4J0R9-26JNV6-3Q8Q" x="2087" y="404" width="85" height="11"/>
+            <linking-phrase-appearance id="1ZFH4FQGP-1QCFZB7-3P25" x="1693" y="660" width="65" height="11" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" border-color="0,0,0,255"
+                border-style="none" border-thickness="1" border-shape="rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <linking-phrase-appearance id="1ZFH4FQGN-S7DMMP-3NQX" x="1257" y="461" width="65" height="14" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" border-color="0,0,0,255"
+                border-style="none" border-thickness="1" border-shape="rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <linking-phrase-appearance id="1ZFH508YM-2BN9WGZ-3VRN" x="1444" y="450" width="77" height="14"/>
+            <linking-phrase-appearance id="1ZDBP8DRN-6GFSXL-C3C0" x="2143" y="798" width="132" height="14" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" border-color="0,0,0,255"
+                border-style="none" border-thickness="1" border-shape="rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <linking-phrase-appearance id="1ZFH4FQGP-GF975D-3NXR" x="1312" y="833" width="50" height="11" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" border-color="0,0,0,255"
+                border-style="none" border-thickness="1" border-shape="rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <linking-phrase-appearance id="1ZFH62TKQ-21MG0D1-47CQ" x="1843" y="1095" width="29" height="11"/>
+            <linking-phrase-appearance id="1ZDBP8DRP-1CZSK43-C3HW" x="2294" y="1008" width="51" height="28" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" border-color="0,0,0,255"
+                border-style="none" border-thickness="1" border-shape="rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <linking-phrase-appearance id="1ZFH5FH00-2BG0H7R-40HD" x="1134" y="972" width="80" height="11"/>
+            <linking-phrase-appearance id="1ZFH4FQGN-1XVV74M-3NT0" x="1266" y="564" width="104" height="13" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" border-color="0,0,0,255"
+                border-style="none" border-thickness="1" border-shape="rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <linking-phrase-appearance id="1ZFH5KBJS-2146F9-41RW" x="1747" y="1008" width="104" height="11"/>
+            <linking-phrase-appearance id="1ZDBP8DRP-13JZ0Q9-C3DX" x="2010" y="832" width="29" height="11" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" border-color="0,0,0,255"
+                border-style="none" border-thickness="1" border-shape="rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <linking-phrase-appearance id="1ZFH606FN-MKWFGL-45XD" x="2217" y="1091" width="87" height="11"/>
+            <linking-phrase-appearance id="1ZFH4FQGN-1BS7XGT-3NSJ" x="1082" y="463" width="73" height="14" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" border-color="0,0,0,255"
+                border-style="none" border-thickness="1" border-shape="rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <linking-phrase-appearance id="1ZFH4FQGP-25D7CXK-3NZ5" x="1514" y="574" width="49" height="14" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" border-color="0,0,0,255"
+                border-style="none" border-thickness="1" border-shape="rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <linking-phrase-appearance id="1ZFH4FQGN-J132MY-3NS1" x="1279" y="343" width="37" height="11" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" border-color="0,0,0,255"
+                border-style="none" border-thickness="1" border-shape="rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <linking-phrase-appearance id="1ZDBP8DRP-BJNVZX-C3G9" x="2259" y="911" width="17" height="11" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" border-color="0,0,0,255"
+                border-style="none" border-thickness="1" border-shape="rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <linking-phrase-appearance id="1ZDBP8DRN-GXNSQF-C380" x="1890" y="792" width="132" height="12" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" border-color="0,0,0,255"
+                border-style="none" border-thickness="1" border-shape="rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <linking-phrase-appearance id="1ZFH4KDF0-23BRK8W-3QC4" x="1897" y="420" width="18" height="11"/>
+            <linking-phrase-appearance id="1ZDBP8DRQ-1ZMJR9L-C3K8" x="2184" y="959" width="53" height="28" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" border-color="0,0,0,255"
+                border-style="none" border-thickness="1" border-shape="rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <linking-phrase-appearance id="1ZFH4FQGN-2BPM71K-3NVR" x="1286" y="692" width="62" height="28" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" border-color="0,0,0,255"
+                border-style="none" border-thickness="1" border-shape="rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZFH4FQGM-1FK1YZX-3NP0"/>
+            <linking-phrase-appearance id="1ZFH5WVZ5-1SF9FN1-454Q" x="1816" y="1055" width="87" height="14"/>
+            <linking-phrase-appearance id="1ZDBP8DRP-DMZT8M-C3CZ" x="2316" y="684" width="109" height="14" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" border-color="0,0,0,255"
+                border-style="none" border-thickness="1" border-shape="rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <linking-phrase-appearance id="1ZFH4FQGP-8VN9VX-3P1Q" x="1541" y="944" width="74" height="14" font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" border-color="0,0,0,255"
+                border-style="none" border-thickness="1" border-shape="rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <linking-phrase-appearance id="1ZFH58J4C-1Q58JXN-3YKC" x="1792" y="298" width="21" height="11"/>
+            <linking-phrase-appearance id="1ZFH4ZMWS-1ZHNL2C-3VQ2" x="1867" y="345" width="27" height="9"/>
+        </linking-phrase-appearance-list>
+        <connection-appearance-list>
+            <connection-appearance id="1ZDBP8DRP-MHXMNJ-C3D8" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <connection-appearance id="1ZFH508YM-1QM146F-3VRR" from-pos="center" to-pos="center" type="straight" arrowhead="if-to-concept"/>
+            <connection-appearance id="1ZFH4FQGP-1LVK9KQ-3NY1" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZFH4FQGM-1FK1YZX-3NP0"/>
+            <connection-appearance id="1ZFH4FQGP-MZ9GZ8-3NYZ" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <connection-appearance id="1ZFH4Q14K-1MJRV4W-3S97" from-pos="center" to-pos="center" type="straight" arrowhead="if-to-concept"/>
+            <connection-appearance id="1ZFH4FQGP-5QW9PZ-3P1Z" from-pos="bottom" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <connection-appearance id="1ZFH4FQGN-1YQ29M9-3NST" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <connection-appearance id="1ZFH4FQGP-1HXHLWK-3NXK" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <connection-appearance id="1ZFH4J0RB-V0VLCY-3Q90" from-pos="center" to-pos="center" type="straight"/>
+            <connection-appearance id="1ZFH5Z3F8-1WRNCTF-45VP" from-pos="center" to-pos="center" type="straight" arrowhead="if-to-concept"/>
+            <connection-appearance id="1ZFH5HSH2-T6VRTN-414T" from-pos="center" to-pos="center" type="straight" arrowhead="if-to-concept"/>
+            <connection-appearance id="1ZDBP8DRN-H9FKJW-C3BT" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <connection-appearance id="1ZDBP8DRP-1QGS7GJ-C3HZ" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <connection-appearance id="1ZFH4FQGN-XBQK4L-3NV2" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZFH4FQGM-1FK1YZX-3NP0"/>
+            <connection-appearance id="1ZFH4FQGP-X47NDY-3P15" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZFH4FQGM-1FK1YZX-3NP0"/>
+            <connection-appearance id="1ZFH5FH01-1R9YZD3-40HH" from-pos="center" to-pos="center" type="straight" arrowhead="if-to-concept"/>
+            <connection-appearance id="1ZFH4FQGP-18QP5Y2-3NZG" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <connection-appearance id="1ZFH4FQGN-1L8T38R-3NW0" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZFH4FQGM-1FK1YZX-3NP0"/>
+            <connection-appearance id="1ZFH4FQGN-TNCFZR-3NR5" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <connection-appearance id="1ZFH58J4C-T19J6Y-3YKG" from-pos="center" to-pos="center" type="straight" arrowhead="if-to-concept"/>
+            <connection-appearance id="1ZFH5BW1F-1P3KXJW-3Z9P" from-pos="center" to-pos="center" type="straight" arrowhead="if-to-concept"/>
+            <connection-appearance id="1ZFH5C3C0-G85DC2-3ZB7" from-pos="center" to-pos="bottom" type="straight" arrowhead="if-to-concept"/>
+            <connection-appearance id="1ZFH4FQGP-GJ26M-3P0W" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZFH4FQGM-1FK1YZX-3NP0"/>
+            <connection-appearance id="1ZDRP3B5Z-SR5B0H-99P" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <connection-appearance id="1ZFH4FQGP-KB7X1B-3NYH" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZFH4FQGM-1FK1YZX-3NP0"/>
+            <connection-appearance id="1ZFH4FQGN-JB0197-3NSB" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <connection-appearance id="1ZFH4FQGP-K8WDYD-3P1B" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZFH4FQGM-1FK1YZX-3NP0"/>
+            <connection-appearance id="1ZFH5Y94V-TGS1P5-45TR" from-pos="center" to-pos="center" type="straight" arrowhead="if-to-concept"/>
+            <connection-appearance id="1ZDBP8DRN-135KSMX-C3B4" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <connection-appearance id="1ZFH4FQGN-1K3ZQ6K-3NT8" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <connection-appearance id="1ZFH5HSH1-12N6VG8-414M" from-pos="center" to-pos="center" type="straight" arrowhead="if-to-concept"/>
+            <connection-appearance id="1ZFH4ZMWT-1J404RM-3VQC" from-pos="center" to-pos="center" type="straight" arrowhead="if-to-concept"/>
+            <connection-appearance id="1ZDBP8DRP-1XS2NYK-C3J5" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <connection-appearance id="1ZFH59DK5-295GWX7-3Z5C" from-pos="center" to-pos="center" type="straight" arrowhead="if-to-concept"/>
+            <connection-appearance id="1ZFH4FQGN-12YZK8M-3NR0" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <connection-appearance id="1ZFH4FQGP-11B8M79-3P0P" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <connection-appearance id="1ZFH4FQGP-L357K0-3P0D" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <connection-appearance id="1ZFH4FQGN-26K0WGN-3NT3" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <connection-appearance id="1ZFH4FQGN-93JRR8-3NSM" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <connection-appearance id="1ZFH61N2F-RDJP42-46MX" from-pos="center" to-pos="center" type="straight" arrowhead="if-to-concept"/>
+            <connection-appearance id="1ZFH4FQGN-1R51X32-3NW5" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZFH4FQGM-1FK1YZX-3NP0"/>
+            <connection-appearance id="1ZDBP8DRP-1XN9FCL-C3CS" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <connection-appearance id="1ZFH4FQGN-DKPYC-3NRN" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <connection-appearance id="1ZFH4ZMWS-1BDJD5J-3VQ5" from-pos="center" to-pos="center" type="straight" arrowhead="if-to-concept"/>
+            <connection-appearance id="1ZFH5Y94V-1C7XFVT-45TY" from-pos="center" to-pos="center" type="straight" arrowhead="if-to-concept"/>
+            <connection-appearance id="1ZFH4J0R9-1QHSJKP-3Q8T" from-pos="center" to-pos="center" type="straight"/>
+            <connection-appearance id="1ZFH4YHFV-28LTSR-3V3F" from-pos="center" to-pos="center" type="straight" arrowhead="if-to-concept"/>
+            <connection-appearance id="1ZFH4FQGN-17ZSJ6J-3NVK" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZFH4FQGM-1FK1YZX-3NP0"/>
+            <connection-appearance id="1ZFH4FQGP-20X708J-3P06" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZFH4FQGM-1FK1YZX-3NP0"/>
+            <connection-appearance id="1ZFH4Q14K-94C8JZ-3S9F" from-pos="center" to-pos="center" type="straight" arrowhead="if-to-concept"/>
+            <connection-appearance id="1ZFH606FN-17R100N-45XP" from-pos="center" to-pos="center" type="straight" arrowhead="if-to-concept"/>
+            <connection-appearance id="1ZDBP8DRQ-252N23V-C3K2" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <connection-appearance id="1ZFH4FQGP-MJ4LBJ-3NZR" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <connection-appearance id="1ZFH4YHFV-75T9QM-3V3M" from-pos="center" to-pos="center" type="straight" arrowhead="if-to-concept"/>
+            <connection-appearance id="1ZFH4R96D-1ZCZR4W-3SC2" from-pos="center" to-pos="center" type="straight" arrowhead="if-to-concept"/>
+            <connection-appearance id="1ZFH5GF2T-26850LM-40J8" from-pos="center" to-pos="center" type="straight" arrowhead="if-to-concept"/>
+            <connection-appearance id="1ZDBP8DRQ-1L2375X-C3KC" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <connection-appearance id="1ZFH4FQGN-17281NT-3NWG" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZFH4FQGM-1FK1YZX-3NP0"/>
+            <connection-appearance id="1ZFH4FQGP-28SDQW7-3P28" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <connection-appearance id="1ZFH62TKR-YXG0V1-47CT" from-pos="center" to-pos="center" type="straight" arrowhead="if-to-concept"/>
+            <connection-appearance id="1ZFH5WVZ6-2CJ0VZR-4550" from-pos="center" to-pos="center" type="straight" arrowhead="if-to-concept"/>
+            <connection-appearance id="1ZFH4FQGP-1DGM5DP-3NZ8" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <connection-appearance id="1ZDBP8DRN-GKPY5N-C383" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <connection-appearance id="1ZFH4FQGN-RB667C-3NVV" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZFH4FQGM-1FK1YZX-3NP0"/>
+            <connection-appearance id="1ZFH61N2F-1837YPN-46N3" from-pos="center" to-pos="center" type="straight" arrowhead="if-to-concept"/>
+            <connection-appearance id="1ZFH4FQGP-18M7663-3NXV" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <connection-appearance id="1ZFH5MZ39-QW2YBX-42H9" from-pos="center" to-pos="center" type="straight" arrowhead="if-to-concept"/>
+            <connection-appearance id="1ZFH4KDF0-1N9N50X-3QC7" from-pos="center" to-pos="center" type="straight"/>
+            <connection-appearance id="1ZFH52P7F-1T3NTLK-3WFH" from-pos="center" to-pos="center" type="straight" arrowhead="if-to-concept"/>
+            <connection-appearance id="1ZFH5ZNBR-NC4QDQ-45WS" from-pos="center" to-pos="center" type="straight" arrowhead="if-to-concept"/>
+            <connection-appearance id="1ZDBP8DRP-18LG1FS-C3G3" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <connection-appearance id="1ZFH4FQGP-15MQ8C8-3NY9" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZFH4FQGM-1FK1YZX-3NP0"/>
+            <connection-appearance id="1ZFH5KBJS-S2HVN6-41RZ" from-pos="center" to-pos="center" type="straight" arrowhead="if-to-concept"/>
+            <connection-appearance id="1ZDBP8DRQ-2C6H0YK-C3JG" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <connection-appearance id="1ZDBP8DRN-FX4RRH-C38L" from-pos="bottom-left" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <connection-appearance id="1ZFH5ZNBR-2Z46X8-45WL" from-pos="center" to-pos="center" type="straight" arrowhead="if-to-concept"/>
+            <connection-appearance id="1ZFH4FQGN-R6LH95-3NTW" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <connection-appearance id="1ZDBP8DRN-1RBJTHP-C3BM" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <connection-appearance id="1ZFH5C6MN-MKQPY1-3ZX7" from-pos="center" to-pos="center" type="straight" arrowhead="if-to-concept"/>
+            <connection-appearance id="1ZFH4FQGP-12FK2S4-3P1J" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <connection-appearance id="1ZDBP8DRP-SLJJ68-C3GD" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <connection-appearance id="1ZFH4FQGN-2BZS1K7-3NWN" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <connection-appearance id="1ZDBP8DRN-27R4466-C389" from-pos="center" to-pos="bottom" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <connection-appearance id="1ZFH4FQGP-29M8XH9-3NX3" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZFH4FQGM-1FK1YZX-3NP0"/>
+            <connection-appearance id="1ZFH62TKR-H0YM83-47D0" from-pos="center" to-pos="center" type="straight" arrowhead="if-to-concept"/>
+            <connection-appearance id="1ZFH4FQGN-1830HBQ-3NVC" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZFH4FQGM-1FK1YZX-3NP0"/>
+            <connection-appearance id="1ZFH4SWTF-15Z7F3T-3SYW" from-pos="center" to-pos="center" type="straight" arrowhead="if-to-concept"/>
+            <connection-appearance id="1ZFH5WVZ5-1865Y75-454T" from-pos="center" to-pos="center" type="straight" arrowhead="if-to-concept"/>
+            <connection-appearance id="1ZDBP8DRP-4S4H06-C3HP" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <connection-appearance id="1ZDBP8DRN-1DFHJ7X-C3B9" from-pos="center" to-pos="top" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <connection-appearance id="1ZDBP8DRP-28MM3FX-C3DJ" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <connection-appearance id="1ZDBP8DRP-25P7Y45-C3D2" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <connection-appearance id="1ZFH4FQGP-25047H2-3NWY" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <connection-appearance id="1ZFH4R96D-1J6JS3D-3SC8" from-pos="center" to-pos="center" type="straight" arrowhead="if-to-concept"/>
+            <connection-appearance id="1ZFH4FQGN-J6N6XD-3NRV" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <connection-appearance id="1ZFH4FQGP-14J38Y5-3NZY" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZFH4FQGM-1FK1YZX-3NP0"/>
+            <connection-appearance id="1ZFH5KWJR-16N3DK-41SS" from-pos="center" to-pos="center" type="straight" arrowhead="if-to-concept"/>
+            <connection-appearance id="1ZFH606FN-1B7WYQM-45XH" from-pos="center" to-pos="center" type="straight" arrowhead="if-to-concept"/>
+            <connection-appearance id="1ZDBP8DRP-1RHD6P6-C3F0" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <connection-appearance id="1ZDBP8DRP-CFKYB4-C3DQ" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <connection-appearance id="1ZFH4FQGP-1KWWSBX-3P1S" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <connection-appearance id="1ZFH4M3QB-1MJ5J9C-3QZF" from-pos="center" to-pos="center" type="straight" arrowhead="if-to-concept"/>
+            <connection-appearance id="1ZFH4FQGN-203Y6CT-3NQQ" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <connection-appearance id="1ZFH4PCPH-1J9HXSJ-3RRJ" from-pos="center" to-pos="center" type="straight" arrowhead="if-to-concept"/>
+            <connection-appearance id="1ZFH4M3QB-1LJLSH2-3QZ8" from-pos="center" to-pos="center" type="straight"/>
+            <connection-appearance id="1ZFH4FQGN-63X180-3NRC" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <connection-appearance id="1ZFH4FQGN-1FY95S9-3NS4" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <connection-appearance id="1ZFH4FQGP-G39JBF-3NYS" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZFH4FQGM-1FK1YZX-3NP0"/>
+            <connection-appearance id="1ZFH4FQGP-1HPPDGR-3NXD" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZFH4FQGM-1FK1YZX-3NP0"/>
+            <connection-appearance id="1ZFH5BW1F-1C1B8MF-3Z9J" from-pos="center" to-pos="center" type="straight" arrowhead="if-to-concept"/>
+            <connection-appearance id="1ZFH58J4C-S6MDG-3YKM" from-pos="center" to-pos="center" type="straight" arrowhead="if-to-concept"/>
+            <connection-appearance id="1ZDBP8DRN-1XGV8MD-C37T" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <connection-appearance id="1ZFH4KDF0-5RCHF8-3QCF" from-pos="center" to-pos="center" type="straight"/>
+            <connection-appearance id="1ZDBP8DRQ-1K2DJF5-C3JX" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <connection-appearance id="1ZDBP8DRN-JJFTNW-C39V" from-pos="center" to-pos="top-left" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <connection-appearance id="1ZFH4QKNZ-1D04S59-3SB6" from-pos="center" to-pos="center" type="straight" arrowhead="if-to-concept"/>
+            <connection-appearance id="1ZDBP8DRN-1J6Z4S2-C3C3" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <connection-appearance id="1ZFH4FQGN-X9Z5PS-3NTF" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <connection-appearance id="1ZDBP8DRQ-3X1RJ6-C3JM" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <connection-appearance id="1ZFH5MZ39-S30FRF-42HG" from-pos="center" to-pos="center" type="straight" arrowhead="if-to-concept"/>
+            <connection-appearance id="1ZFH4FQGN-1J6V9YX-3NTM" from-pos="center" to-pos="center" color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept" stylesheet-id="1ZFH4FQGM-90ZQZK-3NND"/>
+            <connection-appearance id="1ZFH59DK4-1XGB00Y-3Z55" from-pos="center" to-pos="center" type="straight" arrowhead="if-to-concept"/>
+        </connection-appearance-list>
+        <resource-appearance-list>
+            <resource-appearance id="1ZDBP8DRJ-1WN5WH0-C2Z1" font-name="SanSerif" font-size="12" font-style="plain" font-color="0,0,0,255" background-color="192,192,192,255" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <resource-appearance id="1ZDBP8DRK-LRDMJ4-C30J" font-name="SanSerif" font-size="12" font-style="plain" font-color="0,0,0,255" background-color="192,192,192,255" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+            <resource-appearance id="1ZDBP8DRK-89C35V-C30M" font-name="SanSerif" font-size="12" font-style="plain" font-color="0,0,0,255" background-color="192,192,192,255" stylesheet-id="1ZDBP8DRH-SRDD9M-C2XM"/>
+        </resource-appearance-list>
+        <style-sheet-list>
+            <style-sheet id="_Default_">
+                <map-style background-color="255,255,255,0"/>
+                <concept-style font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="237,244,246,255" background-image-style="full" border-color="0,0,0,255" border-style="solid" border-thickness="1"
+                    border-shape="rounded-rectangle" border-shape-rrarc="15.0" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1" max-width="-1.0"/>
+                <linking-phrase-style font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" background-image-style="full" border-color="0,0,0,0" border-style="solid" border-thickness="1"
+                    border-shape="rectangle" border-shape-rrarc="15.0" text-alignment="center" shadow-color="none"/>
+                <connection-style color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept-and-slopes-up"/>
+                <resource-style font-name="SanSerif" font-size="12" font-style="plain" font-color="0,0,0,255" background-color="192,192,192,255"/>
+            </style-sheet>
+            <style-sheet id="_LatestChanges_">
+                <concept-style font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255" border-color="200,200,200,255" border-style="solid" border-thickness="2"
+                    border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1"/>
+                <connection-style arrowhead="if-to-concept"/>
+            </style-sheet>
+            <style-sheet id="1ZDBP8DRH-SRDD9M-C2XM">
+                <concept-style font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255" background-image-style="full" border-color="200,200,200,255" border-style="solid"
+                    border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1"/>
+                <linking-phrase-style font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" background-image-style="full" border-color="0,0,0,255" border-style="none" border-thickness="1"
+                    border-shape="rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1"/>
+                <connection-style color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept-and-slopes-up"/>
+                <resource-style font-name="SanSerif" font-size="12" font-style="plain" font-color="0,0,0,255" background-color="192,192,192,255"/>
+            </style-sheet>
+            <style-sheet id="1ZFH4FQGM-1FK1YZX-3NP0" parent-id="1ZFH4FQGM-90ZQZK-3NND">
+                <concept-style font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255" background-image-style="full" border-color="200,200,200,255" border-style="solid"
+                    border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1"/>
+                <linking-phrase-style font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" background-image-style="full" border-color="0,0,0,255" border-style="none" border-thickness="1"
+                    border-shape="rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1"/>
+                <connection-style color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept-and-slopes-up"/>
+                <resource-style font-name="SanSerif" font-size="12" font-style="plain" font-color="0,0,0,255" background-color="192,192,192,255"/>
+            </style-sheet>
+            <style-sheet id="1ZFH4FQGM-90ZQZK-3NND">
+                <concept-style font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255" background-image-style="full" border-color="200,200,200,255" border-style="solid"
+                    border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1"/>
+                <linking-phrase-style font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" background-image-style="full" border-color="0,0,0,255" border-style="none" border-thickness="1"
+                    border-shape="rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1"/>
+                <connection-style color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept-and-slopes-up"/>
+                <resource-style font-name="SanSerif" font-size="12" font-style="plain" font-color="0,0,0,255" background-color="192,192,192,255"/>
+            </style-sheet>
+            <style-sheet id="1ZDBP8DRK-92QMC3-C313" parent-id="1ZDBP8DRH-SRDD9M-C2XM">
+                <concept-style font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255" background-image-style="full" border-color="200,200,200,255" border-style="solid"
+                    border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1"/>
+                <linking-phrase-style font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" background-image-style="full" border-color="0,0,0,255" border-style="none" border-thickness="1"
+                    border-shape="rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1"/>
+                <connection-style color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept-and-slopes-up"/>
+                <resource-style font-name="SanSerif" font-size="12" font-style="plain" font-color="0,0,0,255" background-color="192,192,192,255"/>
+            </style-sheet>
+            <style-sheet id="1ZFH4FQGN-15CL2B-3NQP" parent-id="1ZFH4FQGM-90ZQZK-3NND">
+                <concept-style font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255" background-image-style="full" border-color="200,200,200,255" border-style="solid"
+                    border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1"/>
+                <linking-phrase-style font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" background-image-style="full" border-color="0,0,0,255" border-style="none" border-thickness="1"
+                    border-shape="rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1"/>
+                <connection-style color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept-and-slopes-up"/>
+                <resource-style font-name="SanSerif" font-size="12" font-style="plain" font-color="0,0,0,255" background-color="192,192,192,255"/>
+            </style-sheet>
+            <style-sheet id="1ZDBP8DRJ-4Z2BVP-C2ZK" parent-id="1ZDBP8DRH-SRDD9M-C2XM">
+                <concept-style font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="250,248,211,255" background-image-style="full" border-color="200,200,200,255" border-style="solid"
+                    border-thickness="2" border-shape="rounded-rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1"/>
+                <linking-phrase-style font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" background-image-style="full" border-color="0,0,0,255" border-style="none" border-thickness="1"
+                    border-shape="rectangle" text-alignment="center" shadow-color="none" min-width="-1" min-height="-1"/>
+                <connection-style color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept-and-slopes-up"/>
+                <resource-style font-name="SanSerif" font-size="12" font-style="plain" font-color="0,0,0,255" background-color="192,192,192,255"/>
+            </style-sheet>
+        </style-sheet-list>
+        <extra-properties-list>
+            <properties-list id="1ZDBP8DRJ-1LLSMD2-C2ZW">
+                <property key="_urlString" value="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/Metodologias ativas numa escola t&#xe9;cnica profissionalizante.url"/>
+            </properties-list>
+            <properties-list id="1ZDBP8DRJ-9MGKM3-C2YZ">
+                <property key="_urlString" value="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/GEORob&#xf3;tica - Uma proposta l&#xfa;dica interdisciplinar para Ensino de Geografia no Ensino M&#xe9;dio um relato de experi&#xea;ncia da rob&#xf3;tica educacional com alunos de escola p&#xfa;blica.url"/>
+            </properties-list>
+            <properties-list id="1ZDBP8DRJ-G5DR96-C2ZR">
+                <property key="_urlString" value="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/Processo de Aprendizagem de Matem&#xe1;tica &#xe0; luz das Metodologias Ativas e do Pensamento Computacional.url"/>
+            </properties-list>
+            <properties-list id="1ZDBP8DRJ-2CX40Y9-C304">
+                <property key="_urlString" value="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/INVESTIGANDO POTENCIALIDADES DA COMPETI&#xc7;&#xc3;O FLL (FIRST LEGO LEAGUE) NO PROCESSO DE APRENDIZAGEM ESCOLAR DOS ESTUDANTES DA EDUCA&#xc7;&#xc3;O B&#xc1;SICA.url"/>
+            </properties-list>
+            <properties-list id="1ZDBP8DRH-1K1R6M1-C2YH">
+                <property key="_urlString" value="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/An Inexpensive Autonomous Mobile Robot for Undergraduate Education Integration of Arduino and Hokuyo Laser Range Finders.url"/>
+            </properties-list>
+            <properties-list id="1ZDBP8DRJ-1LYDFPS-C30D">
+                <property key="_urlString" value="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/Rob&#xf3;tica educacional uma ferramenta para ensino de l&#xf3;gica de programa&#xe7;&#xe3;o no ensino fundamental.url"/>
+            </properties-list>
+            <properties-list id="1ZDBP8DRJ-1ZSS8WL-C2ZN">
+                <property key="_urlString" value="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/Accessible Maker-Based Approaches to Educational Robotics in Online Learning.url"/>
+            </properties-list>
+            <properties-list id="1ZDBP8DRJ-GX3L42-C2ZY">
+                <property key="_urlString" value="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/Pensando a Rob&#xf3;tica na Educa&#xe7;&#xe3;o B&#xe1;sica.url"/>
+            </properties-list>
+            <properties-list id="1ZDBP8DRJ-327S7L-C30B">
+                <property key="_urlString" value="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/Rob&#xf3;tica na educa&#xe7;&#xe3;o n&#xe3;o &#xe9; um bicho-pap&#xe3;o relato de experi&#xea;ncia na rede p&#xfa;blica municipal.url"/>
+            </properties-list>
+            <properties-list id="1ZDBP8DRJ-1H10RCX-C2ZT">
+                <property key="_urlString" value="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/Contexto Formativo de Inven&#xe7;&#xe3;o Rob&#xf3;tico-Matem&#xe1;tica Pensamento Computacional e Matem&#xe1;tica Cr&#xed;tica.url"/>
+            </properties-list>
+            <properties-list id="1ZDBP8DRH-1TCMGK-C2YL">
+                <property key="_urlString" value="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/A Study on the Suitability of Visual Languages for Non-Expert Robot Programmers.url"/>
+            </properties-list>
+            <properties-list id="1ZDBP8DRK-BM4YZK-C30G">
+                <property key="_urlString" value="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/Rob&#xf3;tica Criativa desenvolvimento de projetos de engenharia com crian&#xe7;as e jovens.url"/>
+            </properties-list>
+            <properties-list id="1ZDBP8DRJ-18L1008-C2YN">
+                <property key="_urlString" value="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/Metodologias ativas numa escola t&#xe9;cnica profissionalizante.url"/>
+            </properties-list>
+            <properties-list id="1ZDBP8DRJ-9G8D2S-C306">
+                <property key="_urlString" value="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/Inform&#xe1;tica na Educa&#xe7;&#xe3;o no Ensino Fundamental I An&#xe1;lise das Pr&#xe1;ticas da escola Aloys Jo&#xe3;o Mann de Cascavel.url"/>
+            </properties-list>
+            <properties-list id="1ZDBP8DRJ-22WN67J-C300">
+                <property key="_urlString" value="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/Educational  Open  Robotics  Workshops experience    report    of    a    pedagogical innovation project.url"/>
+            </properties-list>
+            <properties-list id="1ZDBP8DRK-LRDMJ4-C30J">
+                <property key="_urlString" value="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/Relato de experi&#xea;ncia projeto Rob&#xf3;tica na Escola em Tramanda&#xed; no Rio Grande do Sul.url"/>
+            </properties-list>
+            <properties-list id="1ZDBP8DRK-WKVYR8-C316">
+                <property key="_urlString" value="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/Metodologias ativas numa escola t&#xe9;cnica profissionalizante.url"/>
+            </properties-list>
+            <properties-list id="1ZDBP8DRJ-1FXH01N-C2YS">
+                <property key="_urlString" value="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/Um Estudo Explorat&#xf3;rio sobre o Uso da Rob&#xf3;tica Educacional como Ferramenta de Apoio ao Ensino-Aprendizagem de L&#xf3;gica de Programa&#xe7;&#xe3;o para Alunos da Rede P&#xfa;blica do Ensino M&#xe9;dio.url"/>
+            </properties-list>
+            <properties-list id="1ZDBP8DRK-WJX6S5-C319">
+                <property key="_urlString" value="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/Cultura Maker e Rob&#xf3;tica Sustent&#xe1;vel na Escola.url"/>
+            </properties-list>
+            <properties-list id="1ZDBP8DRJ-S822NQ-C308">
+                <property key="_urlString" value="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/A rob&#xf3;tica livre e o ensino de f&#xed;sica e de programa&#xe7;&#xe3;o desenvolvendo um teclado musical eletr&#xf4;nico.url"/>
+            </properties-list>
+            <properties-list id="1ZDBP8DRJ-1WN5WH0-C2Z1">
+                <property key="_urlString" value="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/Desenvolvimento das compet&#xea;ncias de Computa&#xe7;&#xe3;o dispostas na BNCC a partir da Aprendizagem Baseada em Problemas com alunos do ensino fundamental.url"/>
+            </properties-list>
+            <properties-list id="1ZDBP8DRJ-1M6P05L-C2YV">
+                <property key="_urlString" value="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/Tecendo Espa&#xe7;os e Experi&#xea;ncias no Campo da Rob&#xf3;tica Educacional para Fomentar o Interesse de Meninas pela &#xe1;rea de Computa&#xe7;&#xe3;o.url"/>
+            </properties-list>
+            <properties-list id="1ZDBP8DRK-89C35V-C30M">
+                <property key="_urlString" value="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/Linha de Montagem projeto interdisciplinar relacionando rob&#xf3;tica com o estudo de fun&#xe7;&#xf5;es matem&#xe1;ticas.url"/>
+            </properties-list>
+            <properties-list id="1ZDBP8DRJ-21306BT-C2YX">
+                <property key="_urlString" value="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/Rob&#xf3;tica Pedag&#xf3;gica no Exerc&#xed;cio do Pensamento Computacional.url"/>
+            </properties-list>
+            <properties-list id="1ZDBP8DRJ-52VXCQ-C302">
+                <property key="_urlString" value="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/Matem&#xe1;tica e F&#xed;sica em experi&#xea;ncias de Rob&#xf3;tica Livre explorando o sensor ultrass&#xf4;nico.url"/>
+            </properties-list>
+            <properties-list id="1ZDBP8DRJ-L7KMG6-C2YQ">
+                <property key="_urlString" value="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/INVESTIGANDO POTENCIALIDADES DA COMPETI&#xc7;&#xc3;O FLL (FIRST LEGO LEAGUE) NO PROCESSO DE APRENDIZAGEM ESCOLAR DOS ESTUDANTES DA EDUCA&#xc7;&#xc3;O B&#xc1;SICA.url"/>
+            </properties-list>
+            <properties-list id="1ZDBP8DRK-20X37BP-C30Q">
+                <property key="_urlString" value="file:///C:/Users/newlo/OneDrive/Documentos/My Cmaps/Desenvolvimento e Aplica&#xe7;&#xe3;o de uma Estrat&#xe9;gia Pedag&#xf3;gica para o Ensino de Redes de Computadores com Rob&#xf3;tica Educacional.url"/>
+            </properties-list>
+        </extra-properties-list>
+        <extra-graphical-properties-list>
+            <properties-list id="1ZFH6GXJR-QHD15X-4D7D">
+                <property key="StyleSheetGroup_0" value="//*@!#$%%^&amp;*()() No Grouped StyleSheets @"/>
+            </properties-list>
+        </extra-graphical-properties-list>
+    </map>
+</cmap>
